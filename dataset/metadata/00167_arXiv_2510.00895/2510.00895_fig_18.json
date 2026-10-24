@@ -1,0 +1,16 @@
+{
+  "2510.00895_fig_18": {
+    "arxiv_number": "2510.00895",
+    "page_number": 8,
+    "figure_number": 18,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "A circuit generating a W-4 state.",
+    "text_positions": [
+      [
+        37338,
+        37371
+      ]
+    ]
+  }
+}

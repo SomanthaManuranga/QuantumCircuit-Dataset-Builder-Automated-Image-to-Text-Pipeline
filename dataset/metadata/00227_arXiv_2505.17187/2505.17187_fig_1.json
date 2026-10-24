@@ -1,0 +1,20 @@
+{
+  "2505.17187_fig_1": {
+    "arxiv_number": "2505.17187",
+    "page_number": 3,
+    "figure_number": 1,
+    "quantum_gates": [
+      "CNOT"
+    ],
+    "quantum_problem": [
+      "Ansatz"
+    ],
+    "description": "Schematic illustration of the variational framework for quantum simulations.",
+    "text_positions": [
+      [
+        12121,
+        12197
+      ]
+    ]
+  }
+}

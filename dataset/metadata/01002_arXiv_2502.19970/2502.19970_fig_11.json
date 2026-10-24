@@ -1,0 +1,21 @@
+{
+  "2502.19970_fig_11": {
+    "arxiv_number": "2502.19970",
+    "page_number": 27,
+    "figure_number": 11,
+    "quantum_gates": [
+      "RZZ"
+    ],
+    "quantum_problem": [
+      "Feature Map",
+      "ZZ Feature Map"
+    ],
+    "description": "Circuit diagram for the 4 -qubit ZZ feature map.",
+    "text_positions": [
+      [
+        184294,
+        184342
+      ]
+    ]
+  }
+}

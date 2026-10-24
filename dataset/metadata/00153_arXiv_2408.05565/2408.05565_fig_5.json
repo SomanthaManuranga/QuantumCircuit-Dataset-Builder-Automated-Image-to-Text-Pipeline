@@ -1,0 +1,18 @@
+{
+  "2408.05565_fig_5": {
+    "arxiv_number": "2408.05565",
+    "page_number": 6,
+    "figure_number": 5,
+    "quantum_gates": [
+      "Toffoli"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "Benchmarks used for analysis of methods included (a) an eight-qubit GHZ / sensing circuit and (b) the three-qubit Toffoli operation.",
+    "text_positions": [
+      [
+        25216,
+        25348
+      ]
+    ]
+  }
+}

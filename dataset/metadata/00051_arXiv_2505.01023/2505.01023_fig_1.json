@@ -1,0 +1,16 @@
+{
+  "2505.01023_fig_1": {
+    "arxiv_number": "2505.01023",
+    "page_number": 2,
+    "figure_number": 1,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "The intuition behind using a quantum circuit for G to simulate an antisymmetric matrix.",
+    "text_positions": [
+      [
+        14028,
+        14115
+      ]
+    ]
+  }
+}

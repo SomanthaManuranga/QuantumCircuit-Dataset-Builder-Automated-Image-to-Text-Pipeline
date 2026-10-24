@@ -1,0 +1,16 @@
+{
+  "2407.17776_fig_1": {
+    "arxiv_number": "2407.17776",
+    "page_number": 2,
+    "figure_number": 1,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "The hybrid circuit with unitary gates interspersed with local measurements.",
+    "text_positions": [
+      [
+        17980,
+        18055
+      ]
+    ]
+  }
+}

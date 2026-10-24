@@ -1,0 +1,16 @@
+{
+  "2410.13380_fig_2": {
+    "arxiv_number": "2410.13380",
+    "page_number": 4,
+    "figure_number": 2,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Suboptimal dynamic cooling of qubits using r = 2 rounds of cooling with cluster sizes of n = 3 . (a) A schematic diagram of suboptimal dynamic cooling.",
+    "text_positions": [
+      [
+        16596,
+        16747
+      ]
+    ]
+  }
+}

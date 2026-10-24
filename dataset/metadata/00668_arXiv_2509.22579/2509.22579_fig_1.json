@@ -1,0 +1,16 @@
+{
+  "2509.22579_fig_1": {
+    "arxiv_number": "2509.22579",
+    "page_number": 3,
+    "figure_number": 1,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Quantum circuits for (a) the expectation value \u211c [ ( A ^ x \u2020 ) l ] for the kinetic energy in PBC, (b) the potential energy \u27e8 V ^ \u27e9 and for preparing L -qubit state \u03c1 ^ V for potential energy or | \u03d5 u E \u27e9 R for kinetic energy in DBC.",
+    "text_positions": [
+      [
+        22155,
+        22387
+      ]
+    ]
+  }
+}

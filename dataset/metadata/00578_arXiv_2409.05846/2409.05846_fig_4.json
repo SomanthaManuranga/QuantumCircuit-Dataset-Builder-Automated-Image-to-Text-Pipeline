@@ -1,0 +1,16 @@
+{
+  "2409.05846_fig_4": {
+    "arxiv_number": "2409.05846",
+    "page_number": 3,
+    "figure_number": 4,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Hybrid Quantum-Classical RL with Tensor Networks.",
+    "text_positions": [
+      [
+        29651,
+        29700
+      ]
+    ]
+  }
+}

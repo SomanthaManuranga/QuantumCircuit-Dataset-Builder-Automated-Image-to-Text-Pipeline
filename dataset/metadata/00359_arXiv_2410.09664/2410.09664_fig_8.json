@@ -1,0 +1,16 @@
+{
+  "2410.09664_fig_8": {
+    "arxiv_number": "2410.09664",
+    "page_number": 4,
+    "figure_number": 8,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "a) The Pauli string, as a basic element of quantum simulation. (b) The hidden inverses in the circuit for Pauli string.",
+    "text_positions": [
+      [
+        28364,
+        28483
+      ]
+    ]
+  }
+}

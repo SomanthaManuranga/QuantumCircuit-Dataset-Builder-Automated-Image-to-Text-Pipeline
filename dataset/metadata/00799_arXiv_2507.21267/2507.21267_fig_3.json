@@ -1,0 +1,16 @@
+{
+  "2507.21267_fig_3": {
+    "arxiv_number": "2507.21267",
+    "page_number": 4,
+    "figure_number": 3,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Graphical representation of V 1 ( 12 ) as a depth 2 circuit: the first layer is a product of the W unitaries from property ( 3 ) applied to the purple squares in region B .",
+    "text_positions": [
+      [
+        51224,
+        51396
+      ]
+    ]
+  }
+}

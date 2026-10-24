@@ -1,0 +1,19 @@
+{
+  "2506.09144_fig_7": {
+    "arxiv_number": "2506.09144",
+    "page_number": 16,
+    "figure_number": 7,
+    "quantum_gates": [
+      "RY",
+      "X"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "Circuit implementation for real hardware reproduction of (a) Bit-flip channel with strength parameter given by 1 \u2212 p = sin 2 ( \u03b8 / 2 ) , and R y = exp { \u2212 i \u03b8 2 Y } .",
+    "text_positions": [
+      [
+        97233,
+        97399
+      ]
+    ]
+  }
+}

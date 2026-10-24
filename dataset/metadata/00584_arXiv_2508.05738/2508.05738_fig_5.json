@@ -1,0 +1,19 @@
+{
+  "2508.05738_fig_5": {
+    "arxiv_number": "2508.05738",
+    "page_number": 5,
+    "figure_number": 5,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": [
+      "State preparation",
+      "Trotter"
+    ],
+    "description": "Summary of partial compression. (a) Typically, the circuit structure of state preparation and time evolution via Trotter decomposition is done like the topmost circuit.",
+    "text_positions": [
+      [
+        18916,
+        19084
+      ]
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "2409.15065_fig_3": {
+    "arxiv_number": "2409.15065",
+    "page_number": 5,
+    "figure_number": 3,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": [
+      "QEC",
+      "State preparation"
+    ],
+    "description": "Realization of a logical GKP ququart. a , State preparation of ququart Pauli eigenstates | P 0 \u27e9 4 and parity state | + , 0 \u27e9 4 with \u0394 = 0.32 . b , Circuit for measuring a ququart in the basis of Pauli operator P 4 using an ancilla qubit.",
+    "text_positions": [
+      [
+        50332,
+        50570
+      ]
+    ]
+  }
+}

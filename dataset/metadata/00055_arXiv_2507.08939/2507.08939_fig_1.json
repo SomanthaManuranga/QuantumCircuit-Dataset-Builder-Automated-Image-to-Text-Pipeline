@@ -1,0 +1,16 @@
+{
+  "2507.08939_fig_1": {
+    "arxiv_number": "2507.08939",
+    "page_number": 3,
+    "figure_number": 1,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Model and quantum circuit overview. a, We simulate a 22-qubit Kitaev honeycomb lattice, featuring direction-dependent Ising interactions [see Eq. ( 1 )], an effective field with emergent three-body interactions [see Eq. ( Model Hamiltonian )], and Heisenberg interactions [not shown; see Eq. ( 4 )].",
+    "text_positions": [
+      [
+        8343,
+        8642
+      ]
+    ]
+  }
+}

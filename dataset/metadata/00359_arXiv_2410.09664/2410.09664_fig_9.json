@@ -1,0 +1,16 @@
+{
+  "2410.09664_fig_9": {
+    "arxiv_number": "2410.09664",
+    "page_number": 5,
+    "figure_number": 9,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Hidden inverse inside the decomposition of \u2227 1 ( U ) gate.",
+    "text_positions": [
+      [
+        36025,
+        36083
+      ]
+    ]
+  }
+}

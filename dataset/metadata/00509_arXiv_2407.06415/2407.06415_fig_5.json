@@ -1,0 +1,16 @@
+{
+  "2407.06415_fig_5": {
+    "arxiv_number": "2407.06415",
+    "page_number": 8,
+    "figure_number": 5,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Test circuit schematic",
+    "text_positions": [
+      [
+        61194,
+        61216
+      ]
+    ]
+  }
+}

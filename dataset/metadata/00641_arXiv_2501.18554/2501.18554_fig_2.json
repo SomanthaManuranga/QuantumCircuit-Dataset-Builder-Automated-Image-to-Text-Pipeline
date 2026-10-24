@@ -1,0 +1,18 @@
+{
+  "2501.18554_fig_2": {
+    "arxiv_number": "2501.18554",
+    "page_number": 2,
+    "figure_number": 2,
+    "quantum_gates": [
+      "CY"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "Measurement-based preparation of topological order. a, A long-range entangled state of the toric-code type is prepared using a depth-3 circuit, independent of the system size, accompanied by midcircuit readout of the ancilla qubits (I).",
+    "text_positions": [
+      [
+        13713,
+        13949
+      ]
+    ]
+  }
+}

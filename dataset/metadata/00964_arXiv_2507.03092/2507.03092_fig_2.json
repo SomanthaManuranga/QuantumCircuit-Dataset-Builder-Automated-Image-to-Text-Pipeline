@@ -1,0 +1,16 @@
+{
+  "2507.03092_fig_2": {
+    "arxiv_number": "2507.03092",
+    "page_number": 4,
+    "figure_number": 2,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Race condition-safe processing of a Clifford circuit into an binary tableau on GPU.",
+    "text_positions": [
+      [
+        20768,
+        20851
+      ]
+    ]
+  }
+}

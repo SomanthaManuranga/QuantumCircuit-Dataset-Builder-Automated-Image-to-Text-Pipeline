@@ -1,0 +1,16 @@
+{
+  "2503.19172_fig_6": {
+    "arxiv_number": "2503.19172",
+    "page_number": 10,
+    "figure_number": 6,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Clifford implementation of NOHE, and its Clifford inversion. (a) Gate-teleportation (GT) implementation of U NOHE P \ud835\udc8e , where P \ud835\udc8e is a random Pauli operator revealed by the outcomes of the Bell measurements (BMs. (b) Although the basic operation | i , j \u27e9 \u2192 | NOHE ( i , j ) \u27e9 is non-Clifford, it can be inverted with a Clifford circuit.",
+    "text_positions": [
+      [
+        80810,
+        81147
+      ]
+    ]
+  }
+}

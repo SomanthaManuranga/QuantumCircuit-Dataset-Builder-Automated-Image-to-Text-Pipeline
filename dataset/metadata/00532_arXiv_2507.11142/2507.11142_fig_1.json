@@ -1,0 +1,16 @@
+{
+  "2507.11142_fig_1": {
+    "arxiv_number": "2507.11142",
+    "page_number": 3,
+    "figure_number": 1,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Generalized Quantum Signal Processing (GQSP) circuit.",
+    "text_positions": [
+      [
+        12775,
+        12828
+      ]
+    ]
+  }
+}

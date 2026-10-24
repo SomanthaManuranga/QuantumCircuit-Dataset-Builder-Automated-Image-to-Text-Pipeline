@@ -1,0 +1,18 @@
+{
+  "2406.14285_fig_3": {
+    "arxiv_number": "2406.14285",
+    "page_number": 6,
+    "figure_number": 3,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": [
+      "Ansatz"
+    ],
+    "description": "A layered brickwork ansatz scheme.",
+    "text_positions": [
+      [
+        37359,
+        37393
+      ]
+    ]
+  }
+}

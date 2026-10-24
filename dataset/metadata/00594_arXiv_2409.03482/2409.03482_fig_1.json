@@ -1,0 +1,18 @@
+{
+  "2409.03482_fig_1": {
+    "arxiv_number": "2409.03482",
+    "page_number": 2,
+    "figure_number": 1,
+    "quantum_gates": [
+      "RY"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "Quantum circuit for generating superpositions of a quantum harmonic oscillator.",
+    "text_positions": [
+      [
+        5334,
+        5413
+      ]
+    ]
+  }
+}

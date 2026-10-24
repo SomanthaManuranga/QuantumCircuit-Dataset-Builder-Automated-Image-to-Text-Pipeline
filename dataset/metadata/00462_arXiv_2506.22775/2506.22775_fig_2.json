@@ -1,0 +1,16 @@
+{
+  "2506.22775_fig_2": {
+    "arxiv_number": "2506.22775",
+    "page_number": 5,
+    "figure_number": 2,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Quantum search algorithm circuit.",
+    "text_positions": [
+      [
+        37245,
+        37278
+      ]
+    ]
+  }
+}

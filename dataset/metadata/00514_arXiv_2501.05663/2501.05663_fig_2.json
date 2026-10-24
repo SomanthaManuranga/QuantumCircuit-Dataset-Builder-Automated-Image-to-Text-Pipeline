@@ -1,0 +1,18 @@
+{
+  "2501.05663_fig_2": {
+    "arxiv_number": "2501.05663",
+    "page_number": 2,
+    "figure_number": 2,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": [
+      "VQC"
+    ],
+    "description": "Generic Structure of a Variational Quantum Circuit (VQC).",
+    "text_positions": [
+      [
+        14162,
+        14219
+      ]
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "2509.04798_fig_9": {
+    "arxiv_number": "2509.04798",
+    "page_number": 10,
+    "figure_number": 9,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Hardware implementation of Distributed-HISQ .",
+    "text_positions": [
+      [
+        47620,
+        47665
+      ]
+    ]
+  }
+}

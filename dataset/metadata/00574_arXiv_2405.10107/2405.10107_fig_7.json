@@ -1,0 +1,16 @@
+{
+  "2405.10107_fig_7": {
+    "arxiv_number": "2405.10107",
+    "page_number": 7,
+    "figure_number": 7,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Sub-circuits of either only (a) mutual capacitance or (b) mutual inductance.",
+    "text_positions": [
+      [
+        78588,
+        78664
+      ]
+    ]
+  }
+}

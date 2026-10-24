@@ -1,0 +1,16 @@
+{
+  "2411.09403_fig_7": {
+    "arxiv_number": "2411.09403",
+    "page_number": 4,
+    "figure_number": 7,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Using generative models for quantum circuit architecture search .",
+    "text_positions": [
+      [
+        24051,
+        24116
+      ]
+    ]
+  }
+}

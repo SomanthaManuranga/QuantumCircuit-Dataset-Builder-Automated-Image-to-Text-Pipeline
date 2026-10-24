@@ -1,0 +1,21 @@
+{
+  "2506.13534_fig_2": {
+    "arxiv_number": "2506.13534",
+    "page_number": 3,
+    "figure_number": 2,
+    "quantum_gates": [
+      "H"
+    ],
+    "quantum_problem": [
+      "Grover's algorithm",
+      "QPE"
+    ],
+    "description": "A quantum circuit realizing the search for eigenvalues of a matrix that are close to the target value \u03bb 0 , effectively constructing the algorithm described in Theorem 1 for N = 2 n and K = 2 k .",
+    "text_positions": [
+      [
+        27482,
+        27677
+      ]
+    ]
+  }
+}

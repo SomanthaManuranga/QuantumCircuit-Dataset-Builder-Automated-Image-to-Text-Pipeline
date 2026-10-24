@@ -1,0 +1,16 @@
+{
+  "2402.13958_fig_7": {
+    "arxiv_number": "2402.13958",
+    "page_number": 5,
+    "figure_number": 7,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "X stabilizer measurement circuits of the (6.6.6) color code with a single ancilla qubit for each face.",
+    "text_positions": [
+      [
+        33857,
+        33959
+      ]
+    ]
+  }
+}

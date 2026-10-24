@@ -1,0 +1,18 @@
+{
+  "2508.03914_fig_4": {
+    "arxiv_number": "2508.03914",
+    "page_number": 3,
+    "figure_number": 4,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": [
+      "NISQ"
+    ],
+    "description": "Compilation for these programs transforms the sequence of stabilizer circuits \ud835\udcae i on n data and m ancilla (left) into one which is compliant with the restrictions of the target QCCD device (right).",
+    "text_positions": [
+      [
+        15153,
+        15350
+      ]
+    ]
+  }
+}

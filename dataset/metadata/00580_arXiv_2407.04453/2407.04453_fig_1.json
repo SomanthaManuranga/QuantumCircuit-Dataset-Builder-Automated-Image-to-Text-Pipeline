@@ -1,0 +1,18 @@
+{
+  "2407.04453_fig_1": {
+    "arxiv_number": "2407.04453",
+    "page_number": 3,
+    "figure_number": 1,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": [
+      "Ansatz"
+    ],
+    "description": "Hardware efficient separable Ansatz (HESA) for 2 qubits with only local rotations.",
+    "text_positions": [
+      [
+        21571,
+        21653
+      ]
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "2506.20355_fig_7": {
+    "arxiv_number": "2506.20355",
+    "page_number": 14,
+    "figure_number": 7,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "The four possible positionings of a two-qubit gate acting on adjacent qubits of a 5-qubit register.",
+    "text_positions": [
+      [
+        79458,
+        79557
+      ]
+    ]
+  }
+}

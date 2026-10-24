@@ -1,0 +1,16 @@
+{
+  "2510.00895_fig_19": {
+    "arxiv_number": "2510.00895",
+    "page_number": 8,
+    "figure_number": 19,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "A circuit implementing a single iteration of Grover\u2019s algorithm, increasing the probability of the amplitude for one base state.",
+    "text_positions": [
+      [
+        37882,
+        38010
+      ]
+    ]
+  }
+}

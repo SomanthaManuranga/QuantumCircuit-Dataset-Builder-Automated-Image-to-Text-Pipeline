@@ -1,0 +1,16 @@
+{
+  "2408.11606_fig_3": {
+    "arxiv_number": "2408.11606",
+    "page_number": 7,
+    "figure_number": 3,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "The complete circuit employing one Grover iteration.",
+    "text_positions": [
+      [
+        21829,
+        21881
+      ]
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "2507.15955_fig_3": {
+    "arxiv_number": "2507.15955",
+    "page_number": 5,
+    "figure_number": 3,
+    "quantum_gates": [
+      "SWAP",
+      "Toffoli",
+      "Z"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "Optimal Clifford + T decomposition of the C C Z gate [ nielsen_quantum_2012 , sec. 4.3] .",
+    "text_positions": [
+      [
+        27422,
+        27511
+      ]
+    ]
+  }
+}

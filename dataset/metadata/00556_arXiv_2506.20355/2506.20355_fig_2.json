@@ -1,0 +1,16 @@
+{
+  "2506.20355_fig_2": {
+    "arxiv_number": "2506.20355",
+    "page_number": 2,
+    "figure_number": 2,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Prototypical quantum circuit scheme.",
+    "text_positions": [
+      [
+        8543,
+        8579
+      ]
+    ]
+  }
+}

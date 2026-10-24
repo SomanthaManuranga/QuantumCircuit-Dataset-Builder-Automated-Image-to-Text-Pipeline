@@ -1,0 +1,16 @@
+{
+  "2402.13958_fig_12": {
+    "arxiv_number": "2402.13958",
+    "page_number": 7,
+    "figure_number": 12,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "X stabilizer measurement circuits of the (6.6.6) color code with the flag gadgets.",
+    "text_positions": [
+      [
+        40124,
+        40206
+      ]
+    ]
+  }
+}

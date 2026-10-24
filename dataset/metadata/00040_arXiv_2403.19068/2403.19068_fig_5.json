@@ -1,0 +1,18 @@
+{
+  "2403.19068_fig_5": {
+    "arxiv_number": "2403.19068",
+    "page_number": 5,
+    "figure_number": 5,
+    "quantum_gates": [
+      "RZZ"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "Fusion of the symmetry breaking ground state and the nontrivial SPT state with Z 2 \u00d7 Z 2 symmetry into the symmetry breaking state with a symmetric finite depth circuit.",
+    "text_positions": [
+      [
+        39315,
+        39484
+      ]
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "2412.18208_fig_7": {
+    "arxiv_number": "2412.18208",
+    "page_number": 11,
+    "figure_number": 7,
+    "quantum_gates": [
+      "CNOT"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "Quantum circuit implementation of agent-environment interactions across 3 time steps (t = 0, 1, 2).",
+    "text_positions": [
+      [
+        89802,
+        89901
+      ]
+    ]
+  }
+}

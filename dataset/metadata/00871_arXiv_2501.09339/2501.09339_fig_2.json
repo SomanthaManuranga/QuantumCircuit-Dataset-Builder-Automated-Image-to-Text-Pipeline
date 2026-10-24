@@ -1,0 +1,16 @@
+{
+  "2501.09339_fig_2": {
+    "arxiv_number": "2501.09339",
+    "page_number": 6,
+    "figure_number": 2,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "A circuit knitting method originating from the POVM simulation protocol in Result 1 .",
+    "text_positions": [
+      [
+        78345,
+        78430
+      ]
+    ]
+  }
+}

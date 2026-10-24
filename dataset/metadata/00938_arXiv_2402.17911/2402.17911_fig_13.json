@@ -1,0 +1,18 @@
+{
+  "2402.17911_fig_13": {
+    "arxiv_number": "2402.17911",
+    "page_number": 28,
+    "figure_number": 13,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": [
+      "State preparation"
+    ],
+    "description": "In (a), we show the AKLT resource state preparation circuit.",
+    "text_positions": [
+      [
+        246300,
+        246360
+      ]
+    ]
+  }
+}

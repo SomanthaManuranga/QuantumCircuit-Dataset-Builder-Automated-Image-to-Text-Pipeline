@@ -1,0 +1,16 @@
+{
+  "2407.19536_fig_8": {
+    "arxiv_number": "2407.19536",
+    "page_number": 15,
+    "figure_number": 8,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Scheme for an optical implementation of \u03a9 \u22c5 U (with \u03a9 = I ) for a black box gate U .",
+    "text_positions": [
+      [
+        287088,
+        287172
+      ]
+    ]
+  }
+}

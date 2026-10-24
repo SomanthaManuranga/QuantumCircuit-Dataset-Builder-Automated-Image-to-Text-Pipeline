@@ -1,0 +1,18 @@
+{
+  "2404.19554_fig_1": {
+    "arxiv_number": "2404.19554",
+    "page_number": 2,
+    "figure_number": 1,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": [
+      "QFT"
+    ],
+    "description": "The quantum circuit to evaluate S B ( \u03c9 ) ( S \u00af B ( \u03c9 k ) in Eq. ( 7 )).",
+    "text_positions": [
+      [
+        9080,
+        9152
+      ]
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "2508.06677_fig_2": {
+    "arxiv_number": "2508.06677",
+    "page_number": 8,
+    "figure_number": 2,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Circuit for Algorithm 1 .",
+    "text_positions": [
+      [
+        35933,
+        35958
+      ]
+    ]
+  }
+}

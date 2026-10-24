@@ -1,0 +1,16 @@
+{
+  "2503.19172_fig_7": {
+    "arxiv_number": "2503.19172",
+    "page_number": 12,
+    "figure_number": 7,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Circuit for the resource-state.",
+    "text_positions": [
+      [
+        116079,
+        116110
+      ]
+    ]
+  }
+}

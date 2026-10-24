@@ -1,0 +1,18 @@
+{
+  "2502.17572_fig_14": {
+    "arxiv_number": "2502.17572",
+    "page_number": 21,
+    "figure_number": 14,
+    "quantum_gates": [
+      "CNOT"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "The steps of the classical RG algorithm.",
+    "text_positions": [
+      [
+        137113,
+        137153
+      ]
+    ]
+  }
+}

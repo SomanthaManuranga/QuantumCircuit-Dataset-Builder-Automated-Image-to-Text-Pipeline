@@ -1,0 +1,16 @@
+{
+  "2402.04221_fig_3": {
+    "arxiv_number": "2402.04221",
+    "page_number": 4,
+    "figure_number": 3,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Quantum circuit for preparing the thermal state in quantum processors.",
+    "text_positions": [
+      [
+        66835,
+        66905
+      ]
+    ]
+  }
+}

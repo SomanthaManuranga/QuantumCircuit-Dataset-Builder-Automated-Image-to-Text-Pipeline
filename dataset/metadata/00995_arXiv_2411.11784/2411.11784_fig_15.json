@@ -1,0 +1,16 @@
+{
+  "2411.11784_fig_15": {
+    "arxiv_number": "2411.11784",
+    "page_number": 11,
+    "figure_number": 15,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Demonstration for qubit movement of circuit ising_n98.",
+    "text_positions": [
+      [
+        74146,
+        74200
+      ]
+    ]
+  }
+}

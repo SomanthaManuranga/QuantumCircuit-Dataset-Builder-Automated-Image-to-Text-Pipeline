@@ -1,0 +1,18 @@
+{
+  "2404.17560_fig_1": {
+    "arxiv_number": "2404.17560",
+    "page_number": 2,
+    "figure_number": 1,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": [
+      "VQC"
+    ],
+    "description": "Schematic representation of the Floquet-initialized variational quantum circuit, the localization-thermalization phase transition, and the optimization landscape. (a) Diagram of a variational quantum circuit.",
+    "text_positions": [
+      [
+        9295,
+        9503
+      ]
+    ]
+  }
+}

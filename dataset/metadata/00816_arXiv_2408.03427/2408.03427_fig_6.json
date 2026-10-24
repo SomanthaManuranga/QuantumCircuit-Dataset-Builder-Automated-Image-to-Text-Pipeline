@@ -1,0 +1,16 @@
+{
+  "2408.03427_fig_6": {
+    "arxiv_number": "2408.03427",
+    "page_number": 9,
+    "figure_number": 6,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Unrolled representation of a QGNN circuit with 2 layers.",
+    "text_positions": [
+      [
+        37336,
+        37392
+      ]
+    ]
+  }
+}

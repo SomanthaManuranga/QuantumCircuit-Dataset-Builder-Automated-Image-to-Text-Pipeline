@@ -1,0 +1,19 @@
+{
+  "2412.18208_fig_4": {
+    "arxiv_number": "2412.18208",
+    "page_number": 8,
+    "figure_number": 4,
+    "quantum_gates": [
+      "CNOT",
+      "RY"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "Quantum circuit of the quantum Markov decision process (QMDP) simulating a single interaction between the agent and the environment.",
+    "text_positions": [
+      [
+        81480,
+        81612
+      ]
+    ]
+  }
+}

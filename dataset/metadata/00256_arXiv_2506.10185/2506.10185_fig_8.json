@@ -1,0 +1,18 @@
+{
+  "2506.10185_fig_8": {
+    "arxiv_number": "2506.10185",
+    "page_number": 25,
+    "figure_number": 8,
+    "quantum_gates": [
+      "RY"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "A deterministic quantum algorithm to prepare the Dicke state | D 2 3 \u27e9 of N = 2 qubits with k = 3 excitations.",
+    "text_positions": [
+      [
+        221679,
+        221789
+      ]
+    ]
+  }
+}

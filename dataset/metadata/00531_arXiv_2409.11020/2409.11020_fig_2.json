@@ -1,0 +1,16 @@
+{
+  "2409.11020_fig_2": {
+    "arxiv_number": "2409.11020",
+    "page_number": 3,
+    "figure_number": 2,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "The implementation of the partial phase operator U ( \u0394 ) in the case of 3 -qubit input registers.",
+    "text_positions": [
+      [
+        23650,
+        23747
+      ]
+    ]
+  }
+}

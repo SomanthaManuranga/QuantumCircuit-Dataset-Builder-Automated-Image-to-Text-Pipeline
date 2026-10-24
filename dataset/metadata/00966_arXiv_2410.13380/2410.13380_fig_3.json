@@ -1,0 +1,16 @@
+{
+  "2410.13380_fig_3": {
+    "arxiv_number": "2410.13380",
+    "page_number": 5,
+    "figure_number": 3,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Heat-bath algorithmic cooling (HBAC) of N = 3 qubits. (a) A schematic diagram of HBAC, which consists of repeated cycles of dynamic cooling and rethermalizing the reset qubits (here, qubits q1 and q2 ) with the bath. (b) A quantum circuit implementing two round of HBAC.",
+    "text_positions": [
+      [
+        23002,
+        23272
+      ]
+    ]
+  }
+}

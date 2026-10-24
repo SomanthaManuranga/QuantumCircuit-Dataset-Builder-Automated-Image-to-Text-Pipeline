@@ -1,0 +1,19 @@
+{
+  "2408.02837_fig_4": {
+    "arxiv_number": "2408.02837",
+    "page_number": 5,
+    "figure_number": 4,
+    "quantum_gates": [
+      "CNOT",
+      "H"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "Principles of the reflecting protocol. (a) System setup of the reflection protocol.",
+    "text_positions": [
+      [
+        21952,
+        22035
+      ]
+    ]
+  }
+}

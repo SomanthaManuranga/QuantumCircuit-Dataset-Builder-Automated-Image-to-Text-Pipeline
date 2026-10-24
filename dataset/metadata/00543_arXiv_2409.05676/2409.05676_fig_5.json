@@ -1,0 +1,18 @@
+{
+  "2409.05676_fig_5": {
+    "arxiv_number": "2409.05676",
+    "page_number": 7,
+    "figure_number": 5,
+    "quantum_gates": [
+      "CNOT"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "General and practical circuits for U SIC . (a) The general circuit is derived using U SIC \u2212 2 ( c , \u0398 2 ) as the reference U SIC , and explicitly compiling it with the Bell measurement circuit and the relabeling operator U rel .",
+    "text_positions": [
+      [
+        64084,
+        64312
+      ]
+    ]
+  }
+}

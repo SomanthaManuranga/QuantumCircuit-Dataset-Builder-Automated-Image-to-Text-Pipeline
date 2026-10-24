@@ -1,0 +1,19 @@
+{
+  "2407.17659_fig_1": {
+    "arxiv_number": "2407.17659",
+    "page_number": 9,
+    "figure_number": 1,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": [
+      "Ansatz",
+      "Hardware-efficient ansatz"
+    ],
+    "description": "Circuits transforming states from the computational basis to each basis in (a) a 2 qubit MUB set.",
+    "text_positions": [
+      [
+        24154,
+        24251
+      ]
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "2403.17794_fig_3": {
+    "arxiv_number": "2403.17794",
+    "page_number": 3,
+    "figure_number": 3,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "From Pauli string evolution operator e i \u03bb P to corresponding circuit",
+    "text_positions": [
+      [
+        19609,
+        19678
+      ]
+    ]
+  }
+}

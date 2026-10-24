@@ -1,0 +1,18 @@
+{
+  "2412.21062_fig_6": {
+    "arxiv_number": "2412.21062",
+    "page_number": 22,
+    "figure_number": 6,
+    "quantum_gates": [
+      "CNOT"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "The compilation of typical gates into elementary gates. (a) The compilation of Z Z rotations.",
+    "text_positions": [
+      [
+        364065,
+        364158
+      ]
+    ]
+  }
+}

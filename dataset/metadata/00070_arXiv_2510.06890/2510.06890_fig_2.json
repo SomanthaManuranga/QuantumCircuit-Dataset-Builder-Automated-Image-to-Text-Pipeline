@@ -1,0 +1,20 @@
+{
+  "2510.06890_fig_2": {
+    "arxiv_number": "2510.06890",
+    "page_number": 3,
+    "figure_number": 2,
+    "quantum_gates": [
+      "CZ"
+    ],
+    "quantum_problem": [
+      "State preparation"
+    ],
+    "description": "Qubit gates and state preparation using nonlinearities.",
+    "text_positions": [
+      [
+        12215,
+        12270
+      ]
+    ]
+  }
+}

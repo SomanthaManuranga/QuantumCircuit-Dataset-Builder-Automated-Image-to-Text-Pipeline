@@ -1,0 +1,22 @@
+{
+  "2409.12018_fig_1": {
+    "arxiv_number": "2409.12018",
+    "page_number": 5,
+    "figure_number": 1,
+    "quantum_gates": [
+      "CNOT",
+      "RY"
+    ],
+    "quantum_problem": [
+      "Ansatz",
+      "Hardware-efficient ansatz"
+    ],
+    "description": "Hardware efficient ansatz (HEA) quantum circuit for n = 5 qubits used in the simulation of the VQITE and OVQITE algorithms in this work.",
+    "text_positions": [
+      [
+        68529,
+        68665
+      ]
+    ]
+  }
+}

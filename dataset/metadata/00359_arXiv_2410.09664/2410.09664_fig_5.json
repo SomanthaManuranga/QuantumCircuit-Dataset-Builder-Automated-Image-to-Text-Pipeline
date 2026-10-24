@@ -1,0 +1,16 @@
+{
+  "2410.09664_fig_5": {
+    "arxiv_number": "2410.09664",
+    "page_number": 3,
+    "figure_number": 5,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Standard and inverse decomposition of C R Z gate.",
+    "text_positions": [
+      [
+        22097,
+        22146
+      ]
+    ]
+  }
+}

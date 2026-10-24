@@ -1,0 +1,21 @@
+{
+  "2503.19172_fig_5": {
+    "arxiv_number": "2503.19172",
+    "page_number": 8,
+    "figure_number": 5,
+    "quantum_gates": [
+      "CNOT",
+      "CZ",
+      "Toffoli",
+      "Z"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "Nested one-hot encoding, quantum RAM and gate teleportation. (a) Circuit decomposition for realising a NOHE (here we display directly U NOHE ( 2 N ) for N = 8 ).",
+    "text_positions": [
+      [
+        67762,
+        67923
+      ]
+    ]
+  }
+}

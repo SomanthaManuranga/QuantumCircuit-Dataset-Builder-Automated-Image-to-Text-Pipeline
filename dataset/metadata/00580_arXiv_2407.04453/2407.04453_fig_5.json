@@ -1,0 +1,18 @@
+{
+  "2407.04453_fig_5": {
+    "arxiv_number": "2407.04453",
+    "page_number": 5,
+    "figure_number": 5,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": [
+      "Ansatz"
+    ],
+    "description": "The Low-Depth Circuit Ansatz (LDCA) for two qubits.",
+    "text_positions": [
+      [
+        38797,
+        38848
+      ]
+    ]
+  }
+}

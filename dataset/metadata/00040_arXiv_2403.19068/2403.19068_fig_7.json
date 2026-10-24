@@ -1,0 +1,18 @@
+{
+  "2403.19068_fig_7": {
+    "arxiv_number": "2403.19068",
+    "page_number": 6,
+    "figure_number": 7,
+    "quantum_gates": [
+      "CNOT"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "Fusion of two symmetry breaking phases.",
+    "text_positions": [
+      [
+        51735,
+        51774
+      ]
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "2404.16129_fig_1": {
+    "arxiv_number": "2404.16129",
+    "page_number": 3,
+    "figure_number": 1,
+    "quantum_gates": [
+      "H"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "This circuit implements the Hadamard test.",
+    "text_positions": [
+      [
+        17888,
+        17930
+      ]
+    ]
+  }
+}

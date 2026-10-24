@@ -1,0 +1,16 @@
+{
+  "2407.06415_fig_3": {
+    "arxiv_number": "2407.06415",
+    "page_number": 6,
+    "figure_number": 3,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "One qubit gate pool block diagram",
+    "text_positions": [
+      [
+        55751,
+        55784
+      ]
+    ]
+  }
+}

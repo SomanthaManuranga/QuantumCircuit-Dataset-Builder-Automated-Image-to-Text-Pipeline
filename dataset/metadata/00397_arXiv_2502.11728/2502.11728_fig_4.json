@@ -1,0 +1,19 @@
+{
+  "2502.11728_fig_4": {
+    "arxiv_number": "2502.11728",
+    "page_number": 4,
+    "figure_number": 4,
+    "quantum_gates": [
+      "H",
+      "S"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "Plot for the Hadamard test quantum circuit for calculating \u03b4 i i \u2032 j under the case of j = 1 .",
+    "text_positions": [
+      [
+        33552,
+        33646
+      ]
+    ]
+  }
+}

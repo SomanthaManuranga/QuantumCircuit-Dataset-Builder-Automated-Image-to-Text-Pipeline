@@ -1,0 +1,18 @@
+{
+  "2401.14993_fig_1": {
+    "arxiv_number": "2401.14993",
+    "page_number": 4,
+    "figure_number": 1,
+    "quantum_gates": [
+      "RZ"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "a) Three-qubit and (b) two-qubit circuits optimized for the Nairobi quantum processor by Qiskit and applied in our experiments.",
+    "text_positions": [
+      [
+        41214,
+        41341
+      ]
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "2409.06152_fig_4": {
+    "arxiv_number": "2409.06152",
+    "page_number": 12,
+    "figure_number": 4,
+    "quantum_gates": [
+      "CNOT"
+    ],
+    "quantum_problem": [
+      "Bell state"
+    ],
+    "description": "Teleportation-based error correction (TEC) circuit for the one-way quantum repeater architecture .",
+    "text_positions": [
+      [
+        78947,
+        79045
+      ]
+    ]
+  }
+}

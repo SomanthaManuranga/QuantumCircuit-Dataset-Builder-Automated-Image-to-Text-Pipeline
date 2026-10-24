@@ -1,0 +1,18 @@
+{
+  "2510.06890_fig_1": {
+    "arxiv_number": "2510.06890",
+    "page_number": 2,
+    "figure_number": 1,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": [
+      "Bell state"
+    ],
+    "description": "Resource states and measurements in the GHZ-measurement-based architecture. (a) We use encoded doubled 2-chains as our resource states and these are sent to a measurement module. (b) The measurement module performs a 4-GHZ measurement (blue) on four input qubits. (c) Measurement operators associated with the 4-GHZ measurement.",
+    "text_positions": [
+      [
+        8027,
+        8355
+      ]
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "2412.21062_fig_5": {
+    "arxiv_number": "2412.21062",
+    "page_number": 21,
+    "figure_number": 5,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Two equivalent concatenations of the unitary-conjugate LCS formulas. (a) The trivial implementation.",
+    "text_positions": [
+      [
+        351280,
+        351380
+      ]
+    ]
+  }
+}

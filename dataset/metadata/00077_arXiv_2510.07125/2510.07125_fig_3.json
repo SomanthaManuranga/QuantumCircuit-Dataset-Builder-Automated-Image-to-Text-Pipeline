@@ -1,0 +1,18 @@
+{
+  "2510.07125_fig_3": {
+    "arxiv_number": "2510.07125",
+    "page_number": 3,
+    "figure_number": 3,
+    "quantum_gates": [
+      "CNOT"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "Schematic divide-and-conquer diagram mapping local tensors to quantum gates, using a D = 4 MPS as an example. (a) Local tensors after sequential L Q decompositions are unitary or isometric matrices after reshaping.",
+    "text_positions": [
+      [
+        25436,
+        25650
+      ]
+    ]
+  }
+}

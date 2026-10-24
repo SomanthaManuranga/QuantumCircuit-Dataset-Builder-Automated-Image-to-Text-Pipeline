@@ -1,0 +1,16 @@
+{
+  "2407.19536_fig_6": {
+    "arxiv_number": "2407.19536",
+    "page_number": 15,
+    "figure_number": 6,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Implementation of eq. ( 48 ) in quantum circuits with \u03a9 = I .",
+    "text_positions": [
+      [
+        282232,
+        282293
+      ]
+    ]
+  }
+}

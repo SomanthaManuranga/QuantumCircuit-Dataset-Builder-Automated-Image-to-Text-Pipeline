@@ -1,0 +1,16 @@
+{
+  "2410.09664_fig_10": {
+    "arxiv_number": "2410.09664",
+    "page_number": 5,
+    "figure_number": 10,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Optimization on the decomposition of \u2227 2 ( U ) gate.",
+    "text_positions": [
+      [
+        37777,
+        37829
+      ]
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "2409.04602_fig_1": {
+    "arxiv_number": "2409.04602",
+    "page_number": 1,
+    "figure_number": 1,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": [
+      "Ansatz",
+      "VQC"
+    ],
+    "description": "A typical variational quantum circuit (VQC) with the RealAmplitudes ansatz.",
+    "text_positions": [
+      [
+        4388,
+        4463
+      ]
+    ]
+  }
+}

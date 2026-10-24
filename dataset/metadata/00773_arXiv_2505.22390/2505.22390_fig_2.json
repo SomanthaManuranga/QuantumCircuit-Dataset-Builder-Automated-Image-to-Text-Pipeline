@@ -1,0 +1,18 @@
+{
+  "2505.22390_fig_2": {
+    "arxiv_number": "2505.22390",
+    "page_number": 4,
+    "figure_number": 2,
+    "quantum_gates": [
+      "CZ"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "The topological diagram and corresponding fidelity of a fully connected gate. (a) The left figure demonstrates the qubits and CZ gates used to realize the fully connected gate with 46 qubits.",
+    "text_positions": [
+      [
+        24851,
+        25042
+      ]
+    ]
+  }
+}

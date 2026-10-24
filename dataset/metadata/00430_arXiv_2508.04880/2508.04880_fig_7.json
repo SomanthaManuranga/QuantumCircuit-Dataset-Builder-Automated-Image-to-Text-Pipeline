@@ -1,0 +1,18 @@
+{
+  "2508.04880_fig_7": {
+    "arxiv_number": "2508.04880",
+    "page_number": 5,
+    "figure_number": 7,
+    "quantum_gates": [
+      "X"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "The circuits on the left and right are equivalent.",
+    "text_positions": [
+      [
+        23886,
+        23936
+      ]
+    ]
+  }
+}

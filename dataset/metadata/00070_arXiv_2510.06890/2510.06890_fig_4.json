@@ -1,0 +1,20 @@
+{
+  "2510.06890_fig_4": {
+    "arxiv_number": "2510.06890",
+    "page_number": 3,
+    "figure_number": 4,
+    "quantum_gates": [
+      "CZ"
+    ],
+    "quantum_problem": [
+      "Bell state"
+    ],
+    "description": "Entangling gates based on the nonlinear photonic CZ gate. (a) 2-to-1-qubit entangling gate and (b) 2-qubit entangling gate (Bell state measurement).",
+    "text_positions": [
+      [
+        15850,
+        15998
+      ]
+    ]
+  }
+}

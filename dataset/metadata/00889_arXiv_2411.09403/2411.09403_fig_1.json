@@ -1,0 +1,16 @@
+{
+  "2411.09403_fig_1": {
+    "arxiv_number": "2411.09403",
+    "page_number": 2,
+    "figure_number": 1,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Illustration of Variational Quantum Circuits .",
+    "text_positions": [
+      [
+        14988,
+        15034
+      ]
+    ]
+  }
+}

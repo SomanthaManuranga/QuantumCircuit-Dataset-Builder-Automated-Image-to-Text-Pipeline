@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "QuantumCircuit Dataset Builder: Automated Image-to-Text Pipeline"
+type: software
+authors:
+  - family-names: Manuranga
+    given-names: Somantha
+    affiliation: "Ostbayerische Technische Hochschule Amberg-Weiden"
+repository-code: "https://github.com/SomanthaManuranga/QuantumCircuit-Dataset-Builder-Automated-Image-to-Text-Pipeline"
+license: MIT
+keywords:
+  - quantum computing
+  - quantum circuits
+  - dataset
+  - image-to-text
+  - SciBERT
+  - arXiv

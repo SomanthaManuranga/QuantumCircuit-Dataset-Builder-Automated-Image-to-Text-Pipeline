@@ -1,0 +1,16 @@
+{
+  "2410.17277_fig_1": {
+    "arxiv_number": "2410.17277",
+    "page_number": 5,
+    "figure_number": 1,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "The path search quantum circuit.",
+    "text_positions": [
+      [
+        17001,
+        17033
+      ]
+    ]
+  }
+}

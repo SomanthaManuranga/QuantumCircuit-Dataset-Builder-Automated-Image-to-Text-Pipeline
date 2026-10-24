@@ -1,0 +1,16 @@
+{
+  "2401.01392_fig_1": {
+    "arxiv_number": "2401.01392",
+    "page_number": 3,
+    "figure_number": 1,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "The tree-like memory structure of the quantum circuits for preparing a quantum mass function.",
+    "text_positions": [
+      [
+        39749,
+        39842
+      ]
+    ]
+  }
+}

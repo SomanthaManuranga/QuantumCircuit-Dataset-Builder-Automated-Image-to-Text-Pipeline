@@ -1,0 +1,18 @@
+{
+  "2402.17911_fig_1": {
+    "arxiv_number": "2402.17911",
+    "page_number": 2,
+    "figure_number": 1,
+    "quantum_gates": [
+      "CNOT"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "A schematic overview of the robust shallow shadow protocol.",
+    "text_positions": [
+      [
+        10111,
+        10170
+      ]
+    ]
+  }
+}

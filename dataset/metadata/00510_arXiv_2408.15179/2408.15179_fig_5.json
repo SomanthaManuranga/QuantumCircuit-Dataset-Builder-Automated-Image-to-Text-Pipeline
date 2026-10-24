@@ -1,0 +1,20 @@
+{
+  "2408.15179_fig_5": {
+    "arxiv_number": "2408.15179",
+    "page_number": 6,
+    "figure_number": 5,
+    "quantum_gates": [
+      "RY"
+    ],
+    "quantum_problem": [
+      "Ansatz"
+    ],
+    "description": "Problem-Inspired circuit diagram for N = 6 qubits, used both for the SSH and for the Kitaev chains.",
+    "text_positions": [
+      [
+        33504,
+        33603
+      ]
+    ]
+  }
+}

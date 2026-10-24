@@ -1,0 +1,16 @@
+{
+  "2502.19970_fig_3": {
+    "arxiv_number": "2502.19970",
+    "page_number": 4,
+    "figure_number": 3,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Test quantum circuit to estimate the joint probability of features and labels by computing the projection of the optimized density matrix and the test quantum sample | \u03c8 , \ud835\udce8 \ud835\udce7 \u2217 \u27e9 = | \u03c8 \ud835\udce7 \u2217 \u27e9 \u2297 | \ud835\udc9a \ud835\udce8 \u2217 \u27e9 through a reading of the first n \ud835\udce7 + n \ud835\udce8 qubits P ( | 0 \ud835\udce7 \u27e9 | \ud835\udc9a \ud835\udce8 \u2217 \u27e9 ) = \u27e8 \u03c8 , \ud835\udce8 \ud835\udce7 \u2217 | \u03c1 , \ud835\udce7 \ud835\udce8 ( \ud835\udf3d op ) | \u03c8 , \ud835\udce8 \ud835\udce7 \u2217 \u27e9 = M h \u2212 1 p ^ ( \ud835\udc99 \u2217 , \ud835\udc9a \u2217 ) .",
+    "text_positions": [
+      [
+        32975,
+        33327
+      ]
+    ]
+  }
+}

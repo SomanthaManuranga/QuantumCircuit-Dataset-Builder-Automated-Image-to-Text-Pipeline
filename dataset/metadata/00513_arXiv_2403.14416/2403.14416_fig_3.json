@@ -1,0 +1,16 @@
+{
+  "2403.14416_fig_3": {
+    "arxiv_number": "2403.14416",
+    "page_number": 2,
+    "figure_number": 3,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "A quantum channel simulation protocol constructed from a state splitting protocol.",
+    "text_positions": [
+      [
+        18913,
+        18995
+      ]
+    ]
+  }
+}

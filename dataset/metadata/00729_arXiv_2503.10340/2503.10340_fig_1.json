@@ -1,0 +1,16 @@
+{
+  "2503.10340_fig_1": {
+    "arxiv_number": "2503.10340",
+    "page_number": 1,
+    "figure_number": 1,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Test Workflow of Classical Circuit",
+    "text_positions": [
+      [
+        4876,
+        4910
+      ]
+    ]
+  }
+}

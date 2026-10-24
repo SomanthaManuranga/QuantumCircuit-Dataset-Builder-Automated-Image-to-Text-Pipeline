@@ -1,0 +1,16 @@
+{
+  "2508.04880_fig_3": {
+    "arxiv_number": "2508.04880",
+    "page_number": 1,
+    "figure_number": 3,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "A) A noiseless quantum circuit composed of one single- and one two-qubit gate. (B) A noisy version of the quantum circuit (A) with a non-unitary, stochastic depolarizing channel (LHS).",
+    "text_positions": [
+      [
+        7306,
+        7490
+      ]
+    ]
+  }
+}

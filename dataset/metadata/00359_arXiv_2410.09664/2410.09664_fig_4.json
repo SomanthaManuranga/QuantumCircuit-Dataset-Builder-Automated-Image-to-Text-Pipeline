@@ -1,0 +1,16 @@
+{
+  "2410.09664_fig_4": {
+    "arxiv_number": "2410.09664",
+    "page_number": 3,
+    "figure_number": 4,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "A typical structure of hidden inverse on two qubits: a single-qubit rotation gate, sandwiched by C X and C X \u2212 1 on each side.",
+    "text_positions": [
+      [
+        18883,
+        19009
+      ]
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "2503.10842_fig_1": {
+    "arxiv_number": "2503.10842",
+    "page_number": 2,
+    "figure_number": 1,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": [
+      "Bell state"
+    ],
+    "description": "Circuit diagrams for different remote entanglement procedures. (a) The 1-click protocol using four superconducting qubits (q1-q4). q1 and q4 are the data qubits that are to be remotely entangled. q2 and q3 are the interface qubits that are swapped to optical photon channels O1 and O2 via the quantum transducer (denoted \u03c7 ( 2 ) ).",
+    "text_positions": [
+      [
+        1907,
+        2238
+      ]
+    ]
+  }
+}

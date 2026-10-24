@@ -1,0 +1,21 @@
+{
+  "2508.05738_fig_6": {
+    "arxiv_number": "2508.05738",
+    "page_number": 6,
+    "figure_number": 6,
+    "quantum_gates": [
+      "H"
+    ],
+    "quantum_problem": [
+      "State preparation",
+      "Trotter"
+    ],
+    "description": "Illustration of the circuit that produces the correlation \u27e8 \u03d5 \ud835\udc22 | \u03b3 ^ \ud835\udc1a ( \ud835\udc2d ) \u03b3 ^ \ud835\udc1b | \u03d5 \ud835\udc23 \u27e9 : Here, N I = 1 , N B = 3 , and there are r = 10 Trotter steps.",
+    "text_positions": [
+      [
+        20494,
+        20649
+      ]
+    ]
+  }
+}

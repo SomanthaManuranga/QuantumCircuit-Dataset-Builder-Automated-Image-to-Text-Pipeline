@@ -1,0 +1,16 @@
+{
+  "2504.11670_fig_4": {
+    "arxiv_number": "2504.11670",
+    "page_number": 5,
+    "figure_number": 4,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Protocol diagram for a single repeater, where we still perform three rounds of distillation.",
+    "text_positions": [
+      [
+        46509,
+        46601
+      ]
+    ]
+  }
+}

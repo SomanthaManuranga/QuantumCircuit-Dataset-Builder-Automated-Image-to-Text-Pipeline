@@ -1,0 +1,16 @@
+{
+  "2508.21122_fig_8": {
+    "arxiv_number": "2508.21122",
+    "page_number": 17,
+    "figure_number": 8,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Circuit implementation of e \u2212 i \u03b8 | 010 \u27e9 \u27e8 001 | .",
+    "text_positions": [
+      [
+        101530,
+        101581
+      ]
+    ]
+  }
+}

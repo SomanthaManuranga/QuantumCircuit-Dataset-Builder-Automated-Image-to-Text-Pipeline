@@ -1,0 +1,20 @@
+{
+  "2407.17776_fig_4": {
+    "arxiv_number": "2407.17776",
+    "page_number": 3,
+    "figure_number": 4,
+    "quantum_gates": [
+      "CNOT",
+      "SWAP",
+      "iSWAP"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "Two-qubit gates represented by entangling power and gate typicality in the e p \u2212 g t plane.",
+    "text_positions": [
+      [
+        38077,
+        38168
+      ]
+    ]
+  }
+}

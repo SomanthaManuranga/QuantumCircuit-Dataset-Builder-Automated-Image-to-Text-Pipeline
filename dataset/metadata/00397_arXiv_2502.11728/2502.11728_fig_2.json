@@ -1,0 +1,23 @@
+{
+  "2502.11728_fig_2": {
+    "arxiv_number": "2502.11728",
+    "page_number": 3,
+    "figure_number": 2,
+    "quantum_gates": [
+      "CZ",
+      "RY",
+      "Z"
+    ],
+    "quantum_problem": [
+      "Ansatz",
+      "VQC"
+    ],
+    "description": "Plot for the structure of the hardware-efficient variational quantum circuit.",
+    "text_positions": [
+      [
+        20423,
+        20500
+      ]
+    ]
+  }
+}

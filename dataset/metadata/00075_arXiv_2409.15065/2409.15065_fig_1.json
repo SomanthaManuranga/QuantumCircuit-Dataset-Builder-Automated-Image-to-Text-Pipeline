@@ -1,0 +1,16 @@
+{
+  "2409.15065_fig_1": {
+    "arxiv_number": "2409.15065",
+    "page_number": 2,
+    "figure_number": 1,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "a , Schematic of the experimental device. b , Geometric structure of the displacement operators that define the single-mode square GKP code. c , Circuit for one round of finite-energy GKP qudit stabilization, generalizing the small-Big-small (sBs) protocol [ royer_stabilization_2020 ] .",
+    "text_positions": [
+      [
+        8579,
+        8866
+      ]
+    ]
+  }
+}

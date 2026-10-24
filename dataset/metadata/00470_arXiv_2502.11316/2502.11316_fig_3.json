@@ -1,0 +1,18 @@
+{
+  "2502.11316_fig_3": {
+    "arxiv_number": "2502.11316",
+    "page_number": 4,
+    "figure_number": 3,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": [
+      "Ansatz"
+    ],
+    "description": "Operations in the pipeline structure for a single elemental ansatz on a 2-qubit system.",
+    "text_positions": [
+      [
+        49386,
+        49473
+      ]
+    ]
+  }
+}

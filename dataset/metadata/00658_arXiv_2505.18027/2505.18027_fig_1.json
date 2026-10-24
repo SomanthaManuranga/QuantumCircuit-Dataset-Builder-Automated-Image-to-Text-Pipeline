@@ -1,0 +1,18 @@
+{
+  "2505.18027_fig_1": {
+    "arxiv_number": "2505.18027",
+    "page_number": 3,
+    "figure_number": 1,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": [
+      "Ansatz"
+    ],
+    "description": "Circuits for the (a) Bell measurement and (b) three qubit GHZ measurement, and circuits for estimation of (c) \u27e8 \u03c8 | z 1 z 2 \u27e9 \u27e8 z 1 z 2 | \u03c8 \u27e9 and (d) \u27e8 \u03c8 | z 1 z 2 z 3 z 4 \u27e9 \u27e8 z 1 ( z 2 \u2295 1 ) ( z 3 \u2295 1 ) z 4 | \u03c8 \u27e9 .",
+    "text_positions": [
+      [
+        19994,
+        20209
+      ]
+    ]
+  }
+}

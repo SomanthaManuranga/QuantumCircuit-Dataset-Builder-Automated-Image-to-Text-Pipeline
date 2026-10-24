@@ -1,0 +1,22 @@
+{
+  "2406.14285_fig_4": {
+    "arxiv_number": "2406.14285",
+    "page_number": 7,
+    "figure_number": 4,
+    "quantum_gates": [
+      "CZ",
+      "RX",
+      "RZZ"
+    ],
+    "quantum_problem": [
+      "Ansatz"
+    ],
+    "description": "An HVA ansatz. In this example, each layer, d, contains parameterized 2-qubit local ZZ rotation gates followed by CZ entangling gates and a layer of single qubit parameterized X rotation gates...",
+    "text_positions": [
+      [
+        44054,
+        44249
+      ]
+    ]
+  }
+}

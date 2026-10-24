@@ -1,0 +1,16 @@
+{
+  "2502.11728_fig_6": {
+    "arxiv_number": "2502.11728",
+    "page_number": 7,
+    "figure_number": 6,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "The Framework of the FASM Equivalent Circuit.",
+    "text_positions": [
+      [
+        80803,
+        80848
+      ]
+    ]
+  }
+}

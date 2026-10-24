@@ -1,0 +1,16 @@
+{
+  "2507.11142_fig_10": {
+    "arxiv_number": "2507.11142",
+    "page_number": 18,
+    "figure_number": 10,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Quantum circuit for an LCU block encoding of H = \u2212 a I + b X \u2212 c Z .",
+    "text_positions": [
+      [
+        92068,
+        92136
+      ]
+    ]
+  }
+}

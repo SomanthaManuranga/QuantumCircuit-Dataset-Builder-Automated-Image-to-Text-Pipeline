@@ -1,0 +1,18 @@
+{
+  "2502.17778_fig_8": {
+    "arxiv_number": "2502.17778",
+    "page_number": 8,
+    "figure_number": 8,
+    "quantum_gates": [
+      "Z"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "Diagram of the quantum circuit designed to compute the phase difference between the free space signal ( \u03d5 free ) and the soil signal ( \u03d5 soil ) after one sensing step.",
+    "text_positions": [
+      [
+        72259,
+        72426
+      ]
+    ]
+  }
+}

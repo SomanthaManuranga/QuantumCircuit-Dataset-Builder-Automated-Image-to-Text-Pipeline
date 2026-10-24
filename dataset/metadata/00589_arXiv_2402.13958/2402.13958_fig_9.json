@@ -1,0 +1,18 @@
+{
+  "2402.13958_fig_9": {
+    "arxiv_number": "2402.13958",
+    "page_number": 6,
+    "figure_number": 9,
+    "quantum_gates": [
+      "CNOT"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "CNOT order for the (4.8.8) color code with the flag gadgets.",
+    "text_positions": [
+      [
+        39019,
+        39079
+      ]
+    ]
+  }
+}

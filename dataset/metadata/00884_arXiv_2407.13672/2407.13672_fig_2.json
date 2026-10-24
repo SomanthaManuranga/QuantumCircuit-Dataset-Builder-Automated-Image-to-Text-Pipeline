@@ -1,0 +1,16 @@
+{
+  "2407.13672_fig_2": {
+    "arxiv_number": "2407.13672",
+    "page_number": 8,
+    "figure_number": 2,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "color online) Illustration of the circuit design of the forward walk state according to the Hamiltonian H x of a simple many-boson system.",
+    "text_positions": [
+      [
+        101314,
+        101452
+      ]
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "2411.09210_fig_1": {
+    "arxiv_number": "2411.09210",
+    "page_number": 1,
+    "figure_number": 1,
+    "quantum_gates": [
+      "X"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "a) A sketch of classical verification of quantum learning with noises.",
+    "text_positions": [
+      [
+        5290,
+        5360
+      ]
+    ]
+  }
+}

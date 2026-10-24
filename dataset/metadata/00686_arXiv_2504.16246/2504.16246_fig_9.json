@@ -1,0 +1,19 @@
+{
+  "2504.16246_fig_9": {
+    "arxiv_number": "2504.16246",
+    "page_number": 35,
+    "figure_number": 9,
+    "quantum_gates": [
+      "H",
+      "SWAP"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "Quantum circuit implementing the swap test.",
+    "text_positions": [
+      [
+        193258,
+        193301
+      ]
+    ]
+  }
+}

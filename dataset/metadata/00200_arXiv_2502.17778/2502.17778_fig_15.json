@@ -1,0 +1,16 @@
+{
+  "2502.17778_fig_15": {
+    "arxiv_number": "2502.17778",
+    "page_number": 12,
+    "figure_number": 15,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Quantum circuit pipeline for one sensing step of the dark matter detection application based on proposal (Chen et al .",
+    "text_positions": [
+      [
+        91805,
+        91923
+      ]
+    ]
+  }
+}

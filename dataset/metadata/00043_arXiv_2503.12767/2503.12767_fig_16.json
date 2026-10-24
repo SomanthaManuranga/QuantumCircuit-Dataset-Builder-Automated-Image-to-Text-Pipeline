@@ -1,0 +1,16 @@
+{
+  "2503.12767_fig_16": {
+    "arxiv_number": "2503.12767",
+    "page_number": 19,
+    "figure_number": 16,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Stabiliser circuits for silicon spin qubits.",
+    "text_positions": [
+      [
+        98953,
+        98997
+      ]
+    ]
+  }
+}

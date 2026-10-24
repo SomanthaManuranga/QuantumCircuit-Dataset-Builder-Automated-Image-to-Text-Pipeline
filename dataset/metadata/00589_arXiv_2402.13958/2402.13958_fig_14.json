@@ -1,0 +1,16 @@
+{
+  "2402.13958_fig_14": {
+    "arxiv_number": "2402.13958",
+    "page_number": 8,
+    "figure_number": 14,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "The quantum circuit C X for the distance-three (4.8.8) color code.",
+    "text_positions": [
+      [
+        52667,
+        52733
+      ]
+    ]
+  }
+}

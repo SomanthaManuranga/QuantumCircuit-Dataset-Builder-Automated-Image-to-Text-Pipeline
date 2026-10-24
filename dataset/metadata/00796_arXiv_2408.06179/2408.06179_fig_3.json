@@ -1,0 +1,16 @@
+{
+  "2408.06179_fig_3": {
+    "arxiv_number": "2408.06179",
+    "page_number": 8,
+    "figure_number": 3,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Quantum circuit for detecting the generalized three-parameter EJM.",
+    "text_positions": [
+      [
+        123726,
+        123792
+      ]
+    ]
+  }
+}

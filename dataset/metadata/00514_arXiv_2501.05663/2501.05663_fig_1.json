@@ -1,0 +1,16 @@
+{
+  "2501.05663_fig_1": {
+    "arxiv_number": "2501.05663",
+    "page_number": 1,
+    "figure_number": 1,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Hybrid Quantum-Classical Computing with Learnable Measurements.",
+    "text_positions": [
+      [
+        6003,
+        6066
+      ]
+    ]
+  }
+}

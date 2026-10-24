@@ -1,0 +1,18 @@
+{
+  "2404.19554_fig_2": {
+    "arxiv_number": "2404.19554",
+    "page_number": 3,
+    "figure_number": 2,
+    "quantum_gates": [
+      "CNOT"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "The V B gate in Fig. 1 for evaluating A \u03bc particle ( \u03c9 ) and A \u03bc hole ( \u03c9 ) .",
+    "text_positions": [
+      [
+        30642,
+        30719
+      ]
+    ]
+  }
+}

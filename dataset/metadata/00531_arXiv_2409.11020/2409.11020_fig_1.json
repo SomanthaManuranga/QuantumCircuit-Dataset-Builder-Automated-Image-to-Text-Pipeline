@@ -1,0 +1,16 @@
+{
+  "2409.11020_fig_1": {
+    "arxiv_number": "2409.11020",
+    "page_number": 2,
+    "figure_number": 1,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "The quantum circuit representation of the steps of one cycle of the phase transformation protocol.",
+    "text_positions": [
+      [
+        18326,
+        18424
+      ]
+    ]
+  }
+}

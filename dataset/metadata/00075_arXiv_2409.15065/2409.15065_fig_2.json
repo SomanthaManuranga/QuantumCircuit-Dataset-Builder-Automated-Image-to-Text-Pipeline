@@ -1,0 +1,19 @@
+{
+  "2409.15065_fig_2": {
+    "arxiv_number": "2409.15065",
+    "page_number": 4,
+    "figure_number": 2,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": [
+      "QEC",
+      "State preparation"
+    ],
+    "description": "Realization of a logical GKP qutrit. a , State preparation of qutrit Pauli eigenstates | P 0 \u27e9 3 with \u0394 = 0.32 . b , Circuit for measuring a qutrit in the basis of Pauli operator P 3 using an ancilla qubit, where \u03b8 0 = 2 arctan ( 1 / 2 ) .",
+    "text_positions": [
+      [
+        37738,
+        37977
+      ]
+    ]
+  }
+}

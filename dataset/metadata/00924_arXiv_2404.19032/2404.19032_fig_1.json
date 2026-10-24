@@ -1,0 +1,19 @@
+{
+  "2404.19032_fig_1": {
+    "arxiv_number": "2404.19032",
+    "page_number": 2,
+    "figure_number": 1,
+    "quantum_gates": [
+      "RY",
+      "RZ"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "The fPQC has N qubits and d / 2 layers of parameterized U ( R y ( \u03b8 1 ) , R y ( \u03b8 2 ) ) and U ( R z ( \u03b8 1 ) , R z ( \u03b8 2 ) ) gates followed by entangling gates such as U ( Z , X ) .",
+    "text_positions": [
+      [
+        20748,
+        20928
+      ]
+    ]
+  }
+}

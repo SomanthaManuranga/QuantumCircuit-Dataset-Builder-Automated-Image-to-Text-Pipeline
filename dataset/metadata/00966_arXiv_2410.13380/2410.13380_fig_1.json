@@ -1,0 +1,16 @@
+{
+  "2410.13380_fig_1": {
+    "arxiv_number": "2410.13380",
+    "page_number": 2,
+    "figure_number": 1,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Dynamic cooling of qubits. (a) Schematic of dynamic cooling with N identical qubits.",
+    "text_positions": [
+      [
+        7086,
+        7170
+      ]
+    ]
+  }
+}

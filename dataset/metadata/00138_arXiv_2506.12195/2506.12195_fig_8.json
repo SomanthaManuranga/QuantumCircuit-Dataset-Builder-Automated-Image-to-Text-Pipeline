@@ -1,0 +1,16 @@
+{
+  "2506.12195_fig_8": {
+    "arxiv_number": "2506.12195",
+    "page_number": 23,
+    "figure_number": 8,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Integrated photonic circuits enable on-chip quantum gates, beam splitters, and modulators for scalable Layer 1 transmission.",
+    "text_positions": [
+      [
+        127791,
+        127915
+      ]
+    ]
+  }
+}

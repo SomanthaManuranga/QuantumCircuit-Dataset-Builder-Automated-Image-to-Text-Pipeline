@@ -1,0 +1,16 @@
+{
+  "2509.24766_fig_3": {
+    "arxiv_number": "2509.24766",
+    "page_number": 4,
+    "figure_number": 3,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Arbitrary single-qubit error detection using stabilizer measurements. a, Schematic representation of the quantum circuit for detecting arbitrary single-qubit errors.",
+    "text_positions": [
+      [
+        17347,
+        17512
+      ]
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "2503.10842_fig_8": {
+    "arxiv_number": "2503.10842",
+    "page_number": 10,
+    "figure_number": 8,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Chi protocol with local unitary operations U A and U B [ 17 ]",
+    "text_positions": [
+      [
+        67971,
+        68032
+      ]
+    ]
+  }
+}

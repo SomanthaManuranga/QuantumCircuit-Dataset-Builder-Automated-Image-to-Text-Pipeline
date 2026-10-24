@@ -1,0 +1,16 @@
+{
+  "2410.13380_fig_4": {
+    "arxiv_number": "2410.13380",
+    "page_number": 6,
+    "figure_number": 4,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Semi-open algorithmic cooling (AC) with N = 5 qubits. (a) A schematic diagram depicting two rounds of semi-open AC. (b) A quantum circuit implementation executing semi-open AC.",
+    "text_positions": [
+      [
+        27895,
+        28071
+      ]
+    ]
+  }
+}

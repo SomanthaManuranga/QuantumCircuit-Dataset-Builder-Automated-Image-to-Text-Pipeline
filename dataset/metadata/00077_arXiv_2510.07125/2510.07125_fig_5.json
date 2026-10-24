@@ -1,0 +1,16 @@
+{
+  "2510.07125_fig_5": {
+    "arxiv_number": "2510.07125",
+    "page_number": 6,
+    "figure_number": 5,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Encoding of the real-valued diagonal bond matrix \u039b for MPS with PBC.",
+    "text_positions": [
+      [
+        32592,
+        32660
+      ]
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "2412.21062_fig_4": {
+    "arxiv_number": "2412.21062",
+    "page_number": 8,
+    "figure_number": 4,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "The circuit to effectively implement each unittary conjugate.",
+    "text_positions": [
+      [
+        80415,
+        80476
+      ]
+    ]
+  }
+}

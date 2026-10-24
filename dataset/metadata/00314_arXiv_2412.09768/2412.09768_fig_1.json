@@ -1,0 +1,21 @@
+{
+  "2412.09768_fig_1": {
+    "arxiv_number": "2412.09768",
+    "page_number": 3,
+    "figure_number": 1,
+    "quantum_gates": [
+      "H",
+      "X"
+    ],
+    "quantum_problem": [
+      "State preparation"
+    ],
+    "description": "Quantum circuit of the nonlocal transfer.",
+    "text_positions": [
+      [
+        13683,
+        13724
+      ]
+    ]
+  }
+}

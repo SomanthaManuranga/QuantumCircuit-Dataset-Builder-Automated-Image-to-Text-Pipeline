@@ -1,0 +1,20 @@
+{
+  "2412.06979_fig_1": {
+    "arxiv_number": "2412.06979",
+    "page_number": 2,
+    "figure_number": 1,
+    "quantum_gates": [
+      "RY"
+    ],
+    "quantum_problem": [
+      "Ansatz"
+    ],
+    "description": "Recursive circuit ansatz to generate the superposition of the one-hot basis states used in Fig. ( 3 ).",
+    "text_positions": [
+      [
+        4641,
+        4743
+      ]
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "2506.18577_fig_1": {
+    "arxiv_number": "2506.18577",
+    "page_number": 2,
+    "figure_number": 1,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "The quantum circuit diagram shows that qubit teleportation is realized with Alice\u2019s (top two wires) and Bob\u2019s (bottom wire) subsystems.",
+    "text_positions": [
+      [
+        5626,
+        5761
+      ]
+    ]
+  }
+}

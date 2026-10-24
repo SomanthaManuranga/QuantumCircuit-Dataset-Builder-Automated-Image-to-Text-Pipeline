@@ -1,0 +1,21 @@
+{
+  "2408.07591_fig_1": {
+    "arxiv_number": "2408.07591",
+    "page_number": 3,
+    "figure_number": 1,
+    "quantum_gates": [
+      "CNOT",
+      "H",
+      "X",
+      "Z"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "Gate representations of the H , Z , X and C N O T operations respectively.",
+    "text_positions": [
+      [
+        17763,
+        17837
+      ]
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "2408.06179_fig_2": {
+    "arxiv_number": "2408.06179",
+    "page_number": 8,
+    "figure_number": 2,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Quantum circuit for preparing the generalized EJM basis states parameterized by z , \u03c6 and \u03b8 , where \u03c6 = \u2032 \u03c6 \u2212 arg [ ( 1 \u2212 z 2 + i 3 z 2 \u2212 1 ) / ( 2 | z | ) ] .",
+    "text_positions": [
+      [
+        121582,
+        121741
+      ]
+    ]
+  }
+}

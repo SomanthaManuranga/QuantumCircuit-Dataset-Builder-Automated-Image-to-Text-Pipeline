@@ -1,0 +1,16 @@
+{
+  "2410.00975_fig_7": {
+    "arxiv_number": "2410.00975",
+    "page_number": 10,
+    "figure_number": 7,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Diagram for the quantization of the circuit of Fig.",
+    "text_positions": [
+      [
+        127728,
+        127779
+      ]
+    ]
+  }
+}

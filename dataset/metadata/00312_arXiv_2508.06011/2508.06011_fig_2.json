@@ -1,0 +1,18 @@
+{
+  "2508.06011_fig_2": {
+    "arxiv_number": "2508.06011",
+    "page_number": 6,
+    "figure_number": 2,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": [
+      "QEC"
+    ],
+    "description": "Schematics for the fault-tolerant quantum computing scheme based on gate teleportation and code switching.",
+    "text_positions": [
+      [
+        28146,
+        28252
+      ]
+    ]
+  }
+}

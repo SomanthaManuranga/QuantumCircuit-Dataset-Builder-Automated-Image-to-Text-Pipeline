@@ -1,0 +1,16 @@
+{
+  "2412.17704_fig_1": {
+    "arxiv_number": "2412.17704",
+    "page_number": 8,
+    "figure_number": 1,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "A 3-qubit circuit is cut into two 2-qubit subcircuits.",
+    "text_positions": [
+      [
+        20480,
+        20534
+      ]
+    ]
+  }
+}

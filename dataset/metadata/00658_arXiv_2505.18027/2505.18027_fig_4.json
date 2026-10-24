@@ -1,0 +1,18 @@
+{
+  "2505.18027_fig_4": {
+    "arxiv_number": "2505.18027",
+    "page_number": 6,
+    "figure_number": 4,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": [
+      "Ansatz"
+    ],
+    "description": "A SU(4)-based ansatz circuit in a brick-wall pattern with two layers that has been proposed by Anselmetti e t a l . [ 46 ] .",
+    "text_positions": [
+      [
+        54696,
+        54820
+      ]
+    ]
+  }
+}

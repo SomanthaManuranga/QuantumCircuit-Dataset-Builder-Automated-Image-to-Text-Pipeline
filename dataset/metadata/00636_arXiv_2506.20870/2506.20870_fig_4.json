@@ -1,0 +1,20 @@
+{
+  "2506.20870_fig_4": {
+    "arxiv_number": "2506.20870",
+    "page_number": 4,
+    "figure_number": 4,
+    "quantum_gates": [
+      "H"
+    ],
+    "quantum_problem": [
+      "Ansatz"
+    ],
+    "description": "Circuit representation for the HVA ansatz used to simulate the ground state of H ^ in the magnet-to-kink transition for L = 4 , considering a single layer ( p = 1 ) .",
+    "text_positions": [
+      [
+        25960,
+        26126
+      ]
+    ]
+  }
+}

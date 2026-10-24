@@ -1,0 +1,16 @@
+{
+  "2507.06770_fig_2": {
+    "arxiv_number": "2507.06770",
+    "page_number": 2,
+    "figure_number": 2,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Coding for a quantum relay channel \ud835\udca9 A D \u2192 B E .",
+    "text_positions": [
+      [
+        13161,
+        13209
+      ]
+    ]
+  }
+}

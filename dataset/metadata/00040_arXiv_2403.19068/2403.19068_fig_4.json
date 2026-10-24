@@ -1,0 +1,19 @@
+{
+  "2403.19068_fig_4": {
+    "arxiv_number": "2403.19068",
+    "page_number": 4,
+    "figure_number": 4,
+    "quantum_gates": [
+      "RX",
+      "RZZ"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "Fusion of the symmetry breaking ground state and the symmetric ground state of the Ising model into the symmetry breaking state with a symmetric finite depth circuit.",
+    "text_positions": [
+      [
+        34693,
+        34859
+      ]
+    ]
+  }
+}

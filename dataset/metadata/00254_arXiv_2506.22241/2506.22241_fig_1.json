@@ -1,0 +1,16 @@
+{
+  "2506.22241_fig_1": {
+    "arxiv_number": "2506.22241",
+    "page_number": 3,
+    "figure_number": 1,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "An example of the proposed augmentation circuit for three qubits.",
+    "text_positions": [
+      [
+        16520,
+        16585
+      ]
+    ]
+  }
+}

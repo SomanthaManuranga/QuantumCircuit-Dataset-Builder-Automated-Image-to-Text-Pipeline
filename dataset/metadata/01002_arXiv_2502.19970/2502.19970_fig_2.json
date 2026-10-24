@@ -1,0 +1,16 @@
+{
+  "2502.19970_fig_2": {
+    "arxiv_number": "2502.19970",
+    "page_number": 3,
+    "figure_number": 2,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Training quantum circuit to estimate the expected value of the training density matrix and the j th training feature | \u03c8 , \ud835\udce8 \ud835\udce7 j \u27e9 = | \u03c8 \ud835\udce7 j \u27e9 \u2297 | \ud835\udc9a \ud835\udce8 j \u27e9 by measuring the Hilbert spaces of inputs and outputs P ( | 0 \ud835\udce7 \u27e9 | \ud835\udc9a \ud835\udce8 j \u27e9 ) = \u27e8 \u03c8 , \ud835\udce8 \ud835\udce7 j | \u03c1 , \ud835\udce7 \ud835\udce8 ( \ud835\udf3d ) | \u03c8 , \ud835\udce8 \ud835\udce7 j \u27e9 .",
+    "text_positions": [
+      [
+        32218,
+        32496
+      ]
+    ]
+  }
+}

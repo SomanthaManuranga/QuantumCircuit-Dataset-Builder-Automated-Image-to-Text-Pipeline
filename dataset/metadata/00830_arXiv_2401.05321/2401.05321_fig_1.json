@@ -1,0 +1,16 @@
+{
+  "2401.05321_fig_1": {
+    "arxiv_number": "2401.05321",
+    "page_number": 7,
+    "figure_number": 1,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "A general quantum circuit with T queries.",
+    "text_positions": [
+      [
+        28580,
+        28621
+      ]
+    ]
+  }
+}

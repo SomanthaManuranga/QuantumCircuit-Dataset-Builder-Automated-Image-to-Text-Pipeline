@@ -1,0 +1,16 @@
+{
+  "2503.19172_fig_2": {
+    "arxiv_number": "2503.19172",
+    "page_number": 2,
+    "figure_number": 2,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "a) Gate-teleportation for the random OHE V P \ud835\udc8e : we first prepare the resource-state (RS) | \u03a6 ( 1 ) \u27e9 , and then apply Bell measurements (BMs) with the input | \u03c8 \u27e9 .",
+    "text_positions": [
+      [
+        18339,
+        18504
+      ]
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "2505.01023_fig_3": {
+    "arxiv_number": "2505.01023",
+    "page_number": 7,
+    "figure_number": 3,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "The example exact Qiskit circuit generated from optimization for the unitary U A = e A given in Eq.( 17 ).",
+    "text_positions": [
+      [
+        46031,
+        46137
+      ]
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "2310.10451_fig_3": {
+    "arxiv_number": "2310.10451",
+    "page_number": 10,
+    "figure_number": 3,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": [
+      "Quantum walk"
+    ],
+    "description": "Circuit of one step of the quantum walk for the path graph u \u2212 v \u2212 w .",
+    "text_positions": [
+      [
+        62088,
+        62158
+      ]
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "2408.07591_fig_4": {
+    "arxiv_number": "2408.07591",
+    "page_number": 13,
+    "figure_number": 4,
+    "quantum_gates": [
+      "X",
+      "Z"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "Quantum circuit for alternating between X and Z gates with 3 qubits.",
+    "text_positions": [
+      [
+        96028,
+        96096
+      ]
+    ]
+  }
+}

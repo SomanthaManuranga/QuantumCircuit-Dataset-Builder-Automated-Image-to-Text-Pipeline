@@ -1,0 +1,16 @@
+{
+  "2411.09403_fig_8": {
+    "arxiv_number": "2411.09403",
+    "page_number": 4,
+    "figure_number": 8,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Reinforcement learning for quantum circuit architecture search .",
+    "text_positions": [
+      [
+        25340,
+        25404
+      ]
+    ]
+  }
+}

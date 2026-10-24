@@ -1,0 +1,16 @@
+{
+  "2403.17794_fig_1": {
+    "arxiv_number": "2403.17794",
+    "page_number": 1,
+    "figure_number": 1,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Simulating Fermionic systems with qubit systems",
+    "text_positions": [
+      [
+        5840,
+        5887
+      ]
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "2404.18903_fig_2": {
+    "arxiv_number": "2404.18903",
+    "page_number": 3,
+    "figure_number": 2,
+    "quantum_gates": [
+      "CNOT",
+      "RZ"
+    ],
+    "quantum_problem": [
+      "Trotter"
+    ],
+    "description": "Circuit corresponding to one Trotter step ( \u03c4 = 0.01 ) of the Trotterized time evolution of the Hamiltonian Eq. ( 2 ) for IBM devices with native gates CNOT, X , X , and virtual R z .",
+    "text_positions": [
+      [
+        10641,
+        10824
+      ]
+    ]
+  }
+}

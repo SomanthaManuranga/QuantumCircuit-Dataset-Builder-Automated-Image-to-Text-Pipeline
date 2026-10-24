@@ -1,0 +1,20 @@
+{
+  "2502.19970_fig_1": {
+    "arxiv_number": "2502.19970",
+    "page_number": 3,
+    "figure_number": 1,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": [
+      "QGC",
+      "Quantum Classification",
+      "VQC"
+    ],
+    "description": "QGC algorithm for quantum classification based on the joint probability density of features and labels.",
+    "text_positions": [
+      [
+        20119,
+        20222
+      ]
+    ]
+  }
+}

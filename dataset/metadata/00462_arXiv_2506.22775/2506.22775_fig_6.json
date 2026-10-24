@@ -1,0 +1,18 @@
+{
+  "2506.22775_fig_6": {
+    "arxiv_number": "2506.22775",
+    "page_number": 6,
+    "figure_number": 6,
+    "quantum_gates": [
+      "CNOT"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "Example lower fidelity states and corresponding GASP generated circuits. (a) shows the GASP generated circuit for a 99 % fidelity 4 qubit state with \u2308 2 n n \u2309 active amplitudes.",
+    "text_positions": [
+      [
+        62742,
+        62919
+      ]
+    ]
+  }
+}

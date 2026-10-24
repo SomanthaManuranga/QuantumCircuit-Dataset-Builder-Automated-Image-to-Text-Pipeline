@@ -1,0 +1,16 @@
+{
+  "2510.06909_fig_3": {
+    "arxiv_number": "2510.06909",
+    "page_number": 5,
+    "figure_number": 3,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "The diagram of N -agent M -copy LOCC-assisted entanglement distillation.",
+    "text_positions": [
+      [
+        21566,
+        21638
+      ]
+    ]
+  }
+}

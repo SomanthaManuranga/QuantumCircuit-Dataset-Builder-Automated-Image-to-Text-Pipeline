@@ -1,0 +1,18 @@
+{
+  "2507.12886_fig_1": {
+    "arxiv_number": "2507.12886",
+    "page_number": 2,
+    "figure_number": 1,
+    "quantum_gates": [
+      "U"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "A schematic illustration of hybrid random Clifford circuit.",
+    "text_positions": [
+      [
+        12045,
+        12104
+      ]
+    ]
+  }
+}

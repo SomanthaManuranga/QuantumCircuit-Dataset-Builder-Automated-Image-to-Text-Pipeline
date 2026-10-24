@@ -1,0 +1,21 @@
+{
+  "2412.01696_fig_1": {
+    "arxiv_number": "2412.01696",
+    "page_number": 2,
+    "figure_number": 1,
+    "quantum_gates": [
+      "RY",
+      "X"
+    ],
+    "quantum_problem": [
+      "State preparation"
+    ],
+    "description": "Quantum circuit for nonlinear transformation of quantum states.",
+    "text_positions": [
+      [
+        9218,
+        9281
+      ]
+    ]
+  }
+}

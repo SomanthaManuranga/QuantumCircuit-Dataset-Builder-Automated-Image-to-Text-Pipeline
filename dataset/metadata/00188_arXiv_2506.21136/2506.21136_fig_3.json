@@ -1,0 +1,18 @@
+{
+  "2506.21136_fig_3": {
+    "arxiv_number": "2506.21136",
+    "page_number": 6,
+    "figure_number": 3,
+    "quantum_gates": [
+      "RX"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "a) Adjustable rotation gate R x ( \u03b8 ) with double LZSM transition.",
+    "text_positions": [
+      [
+        30762,
+        30828
+      ]
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "2509.04798_fig_1": {
+    "arxiv_number": "2509.04798",
+    "page_number": 3,
+    "figure_number": 1,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": [
+      "QFT"
+    ],
+    "description": "Motivational example of the synchronization challenge.",
+    "text_positions": [
+      [
+        16239,
+        16293
+      ]
+    ]
+  }
+}

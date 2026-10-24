@@ -1,0 +1,18 @@
+{
+  "2402.13958_fig_5": {
+    "arxiv_number": "2402.13958",
+    "page_number": 5,
+    "figure_number": 5,
+    "quantum_gates": [
+      "CNOT"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "CNOT order for the (6.6.6) color code with a single ancilla qubit for each face.",
+    "text_positions": [
+      [
+        30355,
+        30435
+      ]
+    ]
+  }
+}

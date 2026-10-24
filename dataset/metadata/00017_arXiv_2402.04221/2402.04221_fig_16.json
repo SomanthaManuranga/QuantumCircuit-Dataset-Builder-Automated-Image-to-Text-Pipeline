@@ -1,0 +1,16 @@
+{
+  "2402.04221_fig_16": {
+    "arxiv_number": "2402.04221",
+    "page_number": 17,
+    "figure_number": 16,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "QITP th quantum circuit for the magnetic Hamiltonian term at ( 1 , 1 ) position for a 2 \u00d7 2 lattice with j max = 1 2 , a g 2 = 1 , and \u03b2 = 0.15 .",
+    "text_positions": [
+      [
+        209147,
+        209292
+      ]
+    ]
+  }
+}

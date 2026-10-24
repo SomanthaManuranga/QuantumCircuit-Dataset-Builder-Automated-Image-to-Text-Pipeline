@@ -1,0 +1,16 @@
+{
+  "2404.19554_fig_8": {
+    "arxiv_number": "2404.19554",
+    "page_number": 11,
+    "figure_number": 8,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "A quantum circuit without depending on E 0 and controlled exp [ i H T ] for n q = 2 .",
+    "text_positions": [
+      [
+        113087,
+        113172
+      ]
+    ]
+  }
+}

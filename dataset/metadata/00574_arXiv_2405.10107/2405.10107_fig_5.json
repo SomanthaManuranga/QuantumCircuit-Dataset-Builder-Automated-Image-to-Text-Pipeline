@@ -1,0 +1,16 @@
+{
+  "2405.10107_fig_5": {
+    "arxiv_number": "2405.10107",
+    "page_number": 5,
+    "figure_number": 5,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "a) Circuit for the analytic derivation of unfiltered Purcell limit.",
+    "text_positions": [
+      [
+        47536,
+        47603
+      ]
+    ]
+  }
+}

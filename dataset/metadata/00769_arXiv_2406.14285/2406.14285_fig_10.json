@@ -1,0 +1,18 @@
+{
+  "2406.14285_fig_10": {
+    "arxiv_number": "2406.14285",
+    "page_number": 14,
+    "figure_number": 10,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": [
+      "Ansatz"
+    ],
+    "description": "Different classical layouts for the MERA, TNN, and MPS ansatz and their quantum circuit implementation Araz and Spannowsky ( 2022 )",
+    "text_positions": [
+      [
+        96135,
+        96266
+      ]
+    ]
+  }
+}

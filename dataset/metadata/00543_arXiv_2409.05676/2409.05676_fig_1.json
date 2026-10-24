@@ -1,0 +1,18 @@
+{
+  "2409.05676_fig_1": {
+    "arxiv_number": "2409.05676",
+    "page_number": 1,
+    "figure_number": 1,
+    "quantum_gates": [
+      "CNOT"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "Framework for circuit optimization of qubit IC-POVM for shadow estimation.",
+    "text_positions": [
+      [
+        5620,
+        5694
+      ]
+    ]
+  }
+}

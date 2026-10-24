@@ -1,0 +1,18 @@
+{
+  "2406.10988_fig_1": {
+    "arxiv_number": "2406.10988",
+    "page_number": 3,
+    "figure_number": 1,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": [
+      "Bell state"
+    ],
+    "description": "The framework of our protocol.",
+    "text_positions": [
+      [
+        18630,
+        18660
+      ]
+    ]
+  }
+}

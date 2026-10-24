@@ -1,0 +1,16 @@
+{
+  "2402.04221_fig_17": {
+    "arxiv_number": "2402.04221",
+    "page_number": 17,
+    "figure_number": 17,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Quantum circuit for the real time evolution driven by the ( i , j ) = ( 1 , 1 ) magnetic Hamiltonian term for a 2 \u00d7 2 lattice with j max = 1 2 , a g 2 = 1 , and \u0394 t = 0.05 .",
+    "text_positions": [
+      [
+        212391,
+        212564
+      ]
+    ]
+  }
+}

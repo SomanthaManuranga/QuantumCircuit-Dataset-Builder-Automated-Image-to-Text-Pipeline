@@ -1,0 +1,16 @@
+{
+  "2411.18581_fig_2": {
+    "arxiv_number": "2411.18581",
+    "page_number": 10,
+    "figure_number": 2,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Qubit Routing on a complete graph using two matchings.",
+    "text_positions": [
+      [
+        50922,
+        50976
+      ]
+    ]
+  }
+}

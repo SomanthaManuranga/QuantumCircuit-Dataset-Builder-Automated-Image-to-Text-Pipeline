@@ -1,0 +1,16 @@
+{
+  "2504.04946_fig_7": {
+    "arxiv_number": "2504.04946",
+    "page_number": 5,
+    "figure_number": 7,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Circuit diagram for the calculation of the Johnson noise on one DC electrode (1).",
+    "text_positions": [
+      [
+        19427,
+        19508
+      ]
+    ]
+  }
+}

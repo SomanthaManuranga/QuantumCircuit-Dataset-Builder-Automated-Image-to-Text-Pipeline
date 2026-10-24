@@ -1,0 +1,16 @@
+{
+  "2507.06770_fig_4": {
+    "arxiv_number": "2507.06770",
+    "page_number": 7,
+    "figure_number": 4,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "A quantum relay channel with orthogonal components considered in our example.",
+    "text_positions": [
+      [
+        45074,
+        45151
+      ]
+    ]
+  }
+}

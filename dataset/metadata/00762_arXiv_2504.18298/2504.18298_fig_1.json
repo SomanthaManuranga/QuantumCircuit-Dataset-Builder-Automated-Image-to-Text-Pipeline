@@ -1,0 +1,16 @@
+{
+  "2504.18298_fig_1": {
+    "arxiv_number": "2504.18298",
+    "page_number": 2,
+    "figure_number": 1,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "A fully connected network via quantum and classical with homogeneous links where users can submit jobs (quantum circuits)",
+    "text_positions": [
+      [
+        8717,
+        8838
+      ]
+    ]
+  }
+}

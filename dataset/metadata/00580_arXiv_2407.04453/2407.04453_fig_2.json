@@ -1,0 +1,18 @@
+{
+  "2407.04453_fig_2": {
+    "arxiv_number": "2407.04453",
+    "page_number": 3,
+    "figure_number": 2,
+    "quantum_gates": [
+      "CNOT"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "Hardware efficient Ans\u00e4tze (HEA) for 2 qubits (a) one rotation and one CNOT layer HEA(a); (b) two rotation layers and one CNOT layer HEA(b).",
+    "text_positions": [
+      [
+        22345,
+        22485
+      ]
+    ]
+  }
+}

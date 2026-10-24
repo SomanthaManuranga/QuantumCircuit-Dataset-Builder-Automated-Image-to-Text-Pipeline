@@ -1,0 +1,18 @@
+{
+  "2408.07591_fig_5": {
+    "arxiv_number": "2408.07591",
+    "page_number": 14,
+    "figure_number": 5,
+    "quantum_gates": [
+      "H"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "The quantum circuit for a 3-qubit version of Grover\u2019s algorithm.",
+    "text_positions": [
+      [
+        103889,
+        103953
+      ]
+    ]
+  }
+}

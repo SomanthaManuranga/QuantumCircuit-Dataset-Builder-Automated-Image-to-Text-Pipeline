@@ -1,0 +1,16 @@
+{
+  "2408.07591_fig_2": {
+    "arxiv_number": "2408.07591",
+    "page_number": 3,
+    "figure_number": 2,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Example of a quantum circuit.",
+    "text_positions": [
+      [
+        18164,
+        18193
+      ]
+    ]
+  }
+}

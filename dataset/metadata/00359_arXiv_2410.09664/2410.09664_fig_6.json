@@ -1,0 +1,16 @@
+{
+  "2410.09664_fig_6": {
+    "arxiv_number": "2410.09664",
+    "page_number": 4,
+    "figure_number": 6,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "The benchmarking circuit for C R Z gate.",
+    "text_positions": [
+      [
+        25120,
+        25160
+      ]
+    ]
+  }
+}

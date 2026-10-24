@@ -1,0 +1,16 @@
+{
+  "2410.24058_fig_4": {
+    "arxiv_number": "2410.24058",
+    "page_number": 19,
+    "figure_number": 4,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Quantum primitive for estimating 1 2 Tr [ ( U 1 \u2020 U 0 + U 0 \u2020 U 1 ) \u03c1 ] .",
+    "text_positions": [
+      [
+        117963,
+        118036
+      ]
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "2510.07125_fig_2": {
+    "arxiv_number": "2510.07125",
+    "page_number": 3,
+    "figure_number": 2,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Divide-and-conquer framework for the initialization of quantum circuits using matrix product states.",
+    "text_positions": [
+      [
+        18812,
+        18912
+      ]
+    ]
+  }
+}

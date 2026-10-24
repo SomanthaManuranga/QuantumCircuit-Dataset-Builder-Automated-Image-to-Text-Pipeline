@@ -1,0 +1,16 @@
+{
+  "2505.22390_fig_1": {
+    "arxiv_number": "2505.22390",
+    "page_number": 3,
+    "figure_number": 1,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Illustration of the CAB procedure for assessing the fidelity of an n -qubit gate, U . (a) shows the circuit, beginning with the preparation of the state | 0 \u27e9 \u2297 n , followed by a random local Clifford gate \u2a02 i = 1 n C i .",
+    "text_positions": [
+      [
+        17071,
+        17292
+      ]
+    ]
+  }
+}

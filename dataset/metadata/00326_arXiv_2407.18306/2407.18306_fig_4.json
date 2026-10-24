@@ -1,0 +1,16 @@
+{
+  "2407.18306_fig_4": {
+    "arxiv_number": "2407.18306",
+    "page_number": 7,
+    "figure_number": 4,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Multitasking experiment on two NV centers with QNodeOS . (a) Local Gate Tomography (LGT) Circuit.",
+    "text_positions": [
+      [
+        36633,
+        36730
+      ]
+    ]
+  }
+}

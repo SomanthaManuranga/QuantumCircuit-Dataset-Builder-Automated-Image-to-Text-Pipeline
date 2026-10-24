@@ -1,0 +1,16 @@
+{
+  "2509.09395_fig_1": {
+    "arxiv_number": "2509.09395",
+    "page_number": 3,
+    "figure_number": 1,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "The Quantum Circuit used in our algorithm to propose the new step in the chain.",
+    "text_positions": [
+      [
+        13563,
+        13642
+      ]
+    ]
+  }
+}

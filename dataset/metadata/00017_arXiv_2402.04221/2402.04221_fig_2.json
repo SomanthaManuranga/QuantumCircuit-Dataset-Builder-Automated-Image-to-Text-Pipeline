@@ -1,0 +1,16 @@
+{
+  "2402.04221_fig_2": {
+    "arxiv_number": "2402.04221",
+    "page_number": 4,
+    "figure_number": 2,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Schematic diagram of the implemented quantum circuit to calculate the retarded Green\u2019s function of T x y on a 2 \u00d7 2 lattice with j max = 1 2 .",
+    "text_positions": [
+      [
+        64009,
+        64151
+      ]
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "2402.19293_fig_7": {
+    "arxiv_number": "2402.19293",
+    "page_number": 13,
+    "figure_number": 7,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Parameterized circuit implementing U S E using a controlled-RY gate.",
+    "text_positions": [
+      [
+        76408,
+        76476
+      ]
+    ]
+  }
+}

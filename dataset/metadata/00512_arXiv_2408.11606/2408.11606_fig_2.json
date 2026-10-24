@@ -1,0 +1,16 @@
+{
+  "2408.11606_fig_2": {
+    "arxiv_number": "2408.11606",
+    "page_number": 6,
+    "figure_number": 2,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Left: Diagram of the query circuit and its inverse used for the oracle operation, \ud835\udcaa , for the case | s 0 s 1 s 2 s 3 \u27e9 = | 0101 \u27e9 .",
+    "text_positions": [
+      [
+        18581,
+        18712
+      ]
+    ]
+  }
+}

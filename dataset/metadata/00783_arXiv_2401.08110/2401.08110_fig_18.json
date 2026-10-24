@@ -1,0 +1,16 @@
+{
+  "2401.08110_fig_18": {
+    "arxiv_number": "2401.08110",
+    "page_number": 60,
+    "figure_number": 18,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "The gate U b 1 as a circuit diagram.",
+    "text_positions": [
+      [
+        571820,
+        571856
+      ]
+    ]
+  }
+}

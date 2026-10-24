@@ -1,0 +1,20 @@
+{
+  "2407.18306_fig_3": {
+    "arxiv_number": "2407.18306",
+    "page_number": 6,
+    "figure_number": 3,
+    "quantum_gates": [
+      "RZ"
+    ],
+    "quantum_problem": [
+      "Bell state"
+    ],
+    "description": "Delegated computation between two NV center nodes using QNodeOS. (a) Delegated Quantum Computation (DQC) circuit (effective computation: single-qubit rotation R Z ( \u03b1 ) , Section 6 ).",
+    "text_positions": [
+      [
+        27636,
+        27819
+      ]
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "2410.24058_fig_2": {
+    "arxiv_number": "2410.24058",
+    "page_number": 7,
+    "figure_number": 2,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Quantum circuit that plays a role in realizing an unbiased estimate of 1 2 Tr [ { G i , \u03a6 \u03b8 ( G j ) } \u03c1 ( \u03b8 ) ] .",
+    "text_positions": [
+      [
+        39460,
+        39573
+      ]
+    ]
+  }
+}

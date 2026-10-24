@@ -1,0 +1,16 @@
+{
+  "2402.18440_fig_5": {
+    "arxiv_number": "2402.18440",
+    "page_number": 21,
+    "figure_number": 5,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "General brick wall circuit with periodic boundary conditions",
+    "text_positions": [
+      [
+        161729,
+        161789
+      ]
+    ]
+  }
+}

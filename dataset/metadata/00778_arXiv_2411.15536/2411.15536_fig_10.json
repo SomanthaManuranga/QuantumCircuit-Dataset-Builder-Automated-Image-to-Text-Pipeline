@@ -1,0 +1,16 @@
+{
+  "2411.15536_fig_10": {
+    "arxiv_number": "2411.15536",
+    "page_number": 15,
+    "figure_number": 10,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Quantum circuit used for applying the quantum strategy with | W \u27e9 .",
+    "text_positions": [
+      [
+        82045,
+        82112
+      ]
+    ]
+  }
+}

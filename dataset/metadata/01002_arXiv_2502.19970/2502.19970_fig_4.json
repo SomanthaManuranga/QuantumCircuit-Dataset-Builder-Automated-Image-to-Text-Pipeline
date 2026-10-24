@@ -1,0 +1,16 @@
+{
+  "2502.19970_fig_4": {
+    "arxiv_number": "2502.19970",
+    "page_number": 7,
+    "figure_number": 4,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "QAFF quantum circuit strategy [ 29 ] for preparing the three-qubit QEFF mapping.",
+    "text_positions": [
+      [
+        49004,
+        49084
+      ]
+    ]
+  }
+}

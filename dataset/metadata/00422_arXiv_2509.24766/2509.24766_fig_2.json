@@ -1,0 +1,22 @@
+{
+  "2509.24766_fig_2": {
+    "arxiv_number": "2509.24766",
+    "page_number": 3,
+    "figure_number": 2,
+    "quantum_gates": [
+      "Toffoli"
+    ],
+    "quantum_problem": [
+      "Bell state",
+      "GHZ state",
+      "State preparation"
+    ],
+    "description": "The implementation of Toffoli gate, preparation of Bell states and the four-qubit GHZ state. a, Quantum circuit diagram employed to estimate the population transfer fidelity of the four-qubit Toffoli gate. b, The measurement results of the four-qubit Toffoli gate truth table, which gives a population transfer fidelity of 95.9(0.03) % . c, Example circuit for establishing Bell entanglement between two nuclear spins. d, The state tomography of Bell state | \u03a6 + \u27e9 between N 2 and N 3 . e, Quantum circuit diagram for generating the four-qubit GHZ state.",
+    "text_positions": [
+      [
+        11451,
+        12005
+      ]
+    ]
+  }
+}

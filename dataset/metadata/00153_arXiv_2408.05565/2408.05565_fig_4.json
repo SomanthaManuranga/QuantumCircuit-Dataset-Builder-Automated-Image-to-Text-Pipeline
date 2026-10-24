@@ -1,0 +1,18 @@
+{
+  "2408.05565_fig_4": {
+    "arxiv_number": "2408.05565",
+    "page_number": 4,
+    "figure_number": 4,
+    "quantum_gates": [
+      "H"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "When \u03c1 l is stabilized by L i the PCS circuit reduces to a Hadamard test circuit.",
+    "text_positions": [
+      [
+        20393,
+        20474
+      ]
+    ]
+  }
+}

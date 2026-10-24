@@ -1,0 +1,18 @@
+{
+  "2401.10622_fig_6": {
+    "arxiv_number": "2401.10622",
+    "page_number": 88,
+    "figure_number": 6,
+    "quantum_gates": [
+      "H"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "Digital-analog quantum circuit to simulate the evolution of an initial quantum state under Hamiltonian H \ud835\udc07\ud835\udc1e\ud835\udc22\ud835\udc2c for a time \u03c4 .",
+    "text_positions": [
+      [
+        409807,
+        409931
+      ]
+    ]
+  }
+}

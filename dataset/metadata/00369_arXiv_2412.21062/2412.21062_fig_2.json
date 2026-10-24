@@ -1,0 +1,18 @@
+{
+  "2412.21062_fig_2": {
+    "arxiv_number": "2412.21062",
+    "page_number": 3,
+    "figure_number": 2,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": [
+      "Trotter"
+    ],
+    "description": "Circuit implementation diagram for a single simulation step.",
+    "text_positions": [
+      [
+        17589,
+        17649
+      ]
+    ]
+  }
+}

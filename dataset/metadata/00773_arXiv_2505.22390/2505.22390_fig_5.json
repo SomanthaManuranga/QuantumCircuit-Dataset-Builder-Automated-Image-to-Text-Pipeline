@@ -1,0 +1,19 @@
+{
+  "2505.22390_fig_5": {
+    "arxiv_number": "2505.22390",
+    "page_number": 11,
+    "figure_number": 5,
+    "quantum_gates": [
+      "CZ",
+      "X"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "Circuits for fast calibration of CZ gates. q1 and q2 represent the first qubit and the second qubit, respectively.",
+    "text_positions": [
+      [
+        78660,
+        78774
+      ]
+    ]
+  }
+}

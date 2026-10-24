@@ -1,0 +1,19 @@
+{
+  "2503.13368_fig_1": {
+    "arxiv_number": "2503.13368",
+    "page_number": 6,
+    "figure_number": 1,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": [
+      "Ansatz",
+      "VQE"
+    ],
+    "description": "The main components of VQE: a quantum circuit ansatz, a quantum device (or a simulator) to estimate the expectation value of the Hamiltonian, and a classical optimizer",
+    "text_positions": [
+      [
+        52675,
+        52842
+      ]
+    ]
+  }
+}

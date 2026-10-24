@@ -1,0 +1,16 @@
+{
+  "2401.01392_fig_2": {
+    "arxiv_number": "2401.01392",
+    "page_number": 4,
+    "figure_number": 2,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "The quantum circuit for negation.",
+    "text_positions": [
+      [
+        79429,
+        79462
+      ]
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "2502.17778_fig_7": {
+    "arxiv_number": "2502.17778",
+    "page_number": 8,
+    "figure_number": 7,
+    "quantum_gates": [
+      "SWAP"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "Circuit diagram of the swap test.",
+    "text_positions": [
+      [
+        59008,
+        59041
+      ]
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "2502.17572_fig_10": {
+    "arxiv_number": "2502.17572",
+    "page_number": 15,
+    "figure_number": 10,
+    "quantum_gates": [
+      "CCX",
+      "CNOT"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "Constructing dressed 1-form symmetry operators for the 1D product state example.",
+    "text_positions": [
+      [
+        91226,
+        91306
+      ]
+    ]
+  }
+}

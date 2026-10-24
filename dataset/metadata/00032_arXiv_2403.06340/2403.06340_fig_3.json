@@ -1,0 +1,20 @@
+{
+  "2403.06340_fig_3": {
+    "arxiv_number": "2403.06340",
+    "page_number": 4,
+    "figure_number": 3,
+    "quantum_gates": [
+      "H",
+      "SWAP",
+      "X"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "Quantum circuit of a bucket-brigade style QRAM with quantum state tomography.",
+    "text_positions": [
+      [
+        30689,
+        30766
+      ]
+    ]
+  }
+}

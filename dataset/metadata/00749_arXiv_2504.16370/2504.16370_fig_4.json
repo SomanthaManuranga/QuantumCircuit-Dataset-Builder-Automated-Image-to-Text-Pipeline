@@ -1,0 +1,18 @@
+{
+  "2504.16370_fig_4": {
+    "arxiv_number": "2504.16370",
+    "page_number": 9,
+    "figure_number": 4,
+    "quantum_gates": [
+      "H"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "Quantum circuit of Hadamard test to estimate x cos , k .",
+    "text_positions": [
+      [
+        116780,
+        116836
+      ]
+    ]
+  }
+}

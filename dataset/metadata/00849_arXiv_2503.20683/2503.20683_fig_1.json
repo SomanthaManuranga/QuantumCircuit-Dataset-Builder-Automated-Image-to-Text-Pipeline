@@ -1,0 +1,16 @@
+{
+  "2503.20683_fig_1": {
+    "arxiv_number": "2503.20683",
+    "page_number": 4,
+    "figure_number": 1,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "A circuit diagram for quantum kernel evaluation \u2013 i.e. for the evaluation of Eq. ( 10 ).",
+    "text_positions": [
+      [
+        27722,
+        27810
+      ]
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "2402.19293_fig_17": {
+    "arxiv_number": "2402.19293",
+    "page_number": 20,
+    "figure_number": 17,
+    "quantum_gates": [
+      "U"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "Circuits for preparing the initial state \u03c1 S ( 0 ) and constructing the CPTP map \u03a6 .",
+    "text_positions": [
+      [
+        122109,
+        122193
+      ]
+    ]
+  }
+}

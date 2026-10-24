@@ -1,0 +1,16 @@
+{
+  "2403.19068_fig_1": {
+    "arxiv_number": "2403.19068",
+    "page_number": 1,
+    "figure_number": 1,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "a) 0D local unitary operations and (b) 1D finite depth quantum circuit.",
+    "text_positions": [
+      [
+        4831,
+        4902
+      ]
+    ]
+  }
+}

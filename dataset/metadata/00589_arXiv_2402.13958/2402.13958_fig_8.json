@@ -1,0 +1,16 @@
+{
+  "2402.13958_fig_8": {
+    "arxiv_number": "2402.13958",
+    "page_number": 6,
+    "figure_number": 8,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Flag gadgets for X stabilizer measurements. (a) two-qubit flag gadget. (b) four-qubit flag gadget.",
+    "text_positions": [
+      [
+        35355,
+        35453
+      ]
+    ]
+  }
+}

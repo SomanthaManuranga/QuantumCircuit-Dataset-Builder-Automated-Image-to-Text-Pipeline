@@ -1,0 +1,16 @@
+{
+  "2401.08762_fig_8": {
+    "arxiv_number": "2401.08762",
+    "page_number": 10,
+    "figure_number": 8,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Lumped-element circuit model for the ancillary fluxonium which enables erasure detection and logical readout.",
+    "text_positions": [
+      [
+        186760,
+        186869
+      ]
+    ]
+  }
+}

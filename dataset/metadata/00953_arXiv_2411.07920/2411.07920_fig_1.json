@@ -1,0 +1,18 @@
+{
+  "2411.07920_fig_1": {
+    "arxiv_number": "2411.07920",
+    "page_number": 2,
+    "figure_number": 1,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": [
+      "VQE"
+    ],
+    "description": "The ADAPT-VQE algorithm with the sparse wavefunction circuit simulator (SWCS) employed in steps 4 and 7.",
+    "text_positions": [
+      [
+        13415,
+        13519
+      ]
+    ]
+  }
+}

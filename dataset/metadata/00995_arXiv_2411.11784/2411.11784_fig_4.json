@@ -1,0 +1,16 @@
+{
+  "2411.11784_fig_4": {
+    "arxiv_number": "2411.11784",
+    "page_number": 3,
+    "figure_number": 4,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Preprocessing: resynthesis, 1Q gate optimization, and as-soon-as-possible 2Q gate scheduling.",
+    "text_positions": [
+      [
+        18889,
+        18982
+      ]
+    ]
+  }
+}

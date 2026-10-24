@@ -1,0 +1,16 @@
+{
+  "2507.10233_fig_2": {
+    "arxiv_number": "2507.10233",
+    "page_number": 14,
+    "figure_number": 2,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "The final circuit of the given protocol in the mentioned scenario.",
+    "text_positions": [
+      [
+        73373,
+        73439
+      ]
+    ]
+  }
+}

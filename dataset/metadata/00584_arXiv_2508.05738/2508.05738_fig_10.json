@@ -1,0 +1,18 @@
+{
+  "2508.05738_fig_10": {
+    "arxiv_number": "2508.05738",
+    "page_number": 10,
+    "figure_number": 10,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": [
+      "Trotter"
+    ],
+    "description": "Partial compression of a Trotter step.",
+    "text_positions": [
+      [
+        49108,
+        49146
+      ]
+    ]
+  }
+}

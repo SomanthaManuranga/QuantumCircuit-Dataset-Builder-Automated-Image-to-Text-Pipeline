@@ -1,0 +1,16 @@
+{
+  "2408.07591_fig_3": {
+    "arxiv_number": "2408.07591",
+    "page_number": 5,
+    "figure_number": 3,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "Quantum circuit with 3 unitary operations consisting of grouped gates.",
+    "text_positions": [
+      [
+        29577,
+        29647
+      ]
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "2505.18400_fig_15": {
+    "arxiv_number": "2505.18400",
+    "page_number": 16,
+    "figure_number": 15,
+    "quantum_gates": [
+      "X"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "Encoding circuit for the three-qubit bit-flip code.",
+    "text_positions": [
+      [
+        199632,
+        199683
+      ]
+    ]
+  }
+}

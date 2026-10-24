@@ -1,0 +1,19 @@
+{
+  "2509.04798_fig_14": {
+    "arxiv_number": "2509.04798",
+    "page_number": 12,
+    "figure_number": 14,
+    "quantum_gates": [
+      "CNOT",
+      "SWAP"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "Long-range CNOT gate between | \u03c8 1 \u27e9 and | \u03c8 2 \u27e9 based on gate-teleportation (B\u00e4umer et al., 2024 ) .",
+    "text_positions": [
+      [
+        56345,
+        56446
+      ]
+    ]
+  }
+}

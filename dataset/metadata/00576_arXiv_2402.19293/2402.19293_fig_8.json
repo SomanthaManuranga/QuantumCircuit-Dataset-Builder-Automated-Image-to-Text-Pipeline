@@ -1,0 +1,18 @@
+{
+  "2402.19293_fig_8": {
+    "arxiv_number": "2402.19293",
+    "page_number": 17,
+    "figure_number": 8,
+    "quantum_gates": [
+      "H"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "Straightforward implementation of the circuits for the Hadamard tests to measure \ud835\udc9e 2 .",
+    "text_positions": [
+      [
+        100913,
+        100999
+      ]
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "2407.19536_fig_5": {
+    "arxiv_number": "2407.19536",
+    "page_number": 14,
+    "figure_number": 5,
+    "quantum_gates": "not specifically mentioned",
+    "quantum_problem": "not specifically mentioned",
+    "description": "A setting for unitary reduction in quantum circuits.",
+    "text_positions": [
+      [
+        279722,
+        279774
+      ]
+    ]
+  }
+}

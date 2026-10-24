@@ -1,0 +1,18 @@
+{
+  "2402.19293_fig_19": {
+    "arxiv_number": "2402.19293",
+    "page_number": 24,
+    "figure_number": 19,
+    "quantum_gates": [
+      "H"
+    ],
+    "quantum_problem": "not specifically mentioned",
+    "description": "Optimized circuit for measuring the C 2 term in \ud835\udc9e \u2131 corr .",
+    "text_positions": [
+      [
+        135992,
+        136050
+      ]
+    ]
+  }
+}
